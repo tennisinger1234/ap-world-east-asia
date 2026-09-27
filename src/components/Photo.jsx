@@ -32,7 +32,7 @@ export default function Photo({ photo, className = '', compact = false }) {
             <span className="font-semibold">Credit: </span>
             <NoteText text={credit.bibliography} />{' '}
             <Link to={`/sources?src=${credit.id}`} className="whitespace-nowrap font-semibold text-celadon-deep hover:underline">
-              [bib]
+              bibliography →
             </Link>
           </p>
         )}

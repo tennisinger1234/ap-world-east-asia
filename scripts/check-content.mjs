@@ -150,7 +150,9 @@ const flagged = [
   ...data.overview.filter((o) => o.verified !== true).map((o) => `overview ${o.id}`),
 ]
 flagged.forEach((f) => err(`${f}: not verified; confirm it or remove it`))
-for (const s of data.sources) if (/\[COLLECTION\]/.test(s.bibliography)) err(`source ${s.id}: placeholder left in bibliography`)
+for (const s of data.sources)
+  for (const f of ['bibliography', 'note', 'shortNote'])
+    if (/[[\]]|accessed/i.test(s[f] ?? '')) err(`source ${s.id}: ${f} contains a bracket placeholder or access date`)
 const unverified = flagged.length
 console.log(
   `content.json: ${data.items.length} items, ${mcq.length} MCQ / ${saq.length} SAQ / ${ccot.length} CCOT, ${data.sources.length} sources, ${unverified} unverified entries`,

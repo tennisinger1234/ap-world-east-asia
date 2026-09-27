@@ -61,7 +61,7 @@ export function NotesSection({ notes }) {
                     className="ml-1 whitespace-nowrap text-xs font-semibold text-celadon-deep hover:underline"
                     title="Show in bibliography"
                   >
-                    [bib]
+                    bibliography →
                   </Link>
                   {i < parts.length - 1 ? '; ' : '.'}
                 </span>
