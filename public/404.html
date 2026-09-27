@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Song China · AP World 1.1</title>
+    <script>
+      // GitHub Pages serves this file for addresses it doesn't know, such as
+      // /ap-world-east-asia/learn/political. Send visitors to the matching
+      // hash address (/ap-world-east-asia/#/learn/political), which the app handles.
+      ;(function () {
+        var base = '/ap-world-east-asia/'
+        var path = window.location.pathname
+        var rest = path.indexOf(base) === 0 ? path.slice(base.length) : ''
+        rest = rest.replace(/^\/+|\/+$/g, '').replace(/index\.html$/, '')
+        window.location.replace(base + '#/' + rest + window.location.search)
+      })()
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to the study guide… <a href="/ap-world-east-asia/">Open the home page</a></p>
+  </body>
+</html>

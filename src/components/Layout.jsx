@@ -5,6 +5,7 @@ import { markPage } from '../lib/progress'
 import { InkMountains, SealStamp } from './Decor'
 import { TabIcon } from './Illustrations'
 import Loading from './Loading'
+import PageErrorBoundary from './PageErrorBoundary'
 import Search, { SearchIcon } from './Search'
 
 export const TABS = [
@@ -39,7 +40,14 @@ export default function Layout() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded focus:bg-paper-card focus:px-3 focus:py-2">
+      <a
+        href="#main"
+        onClick={(e) => {
+          // with hash routing, "#main" would be read as a route; move focus instead
+          e.preventDefault()
+          document.getElementById('main')?.focus()
+        }}
+        className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded focus:bg-paper-card focus:px-3 focus:py-2">
         Skip to content
       </a>
 
@@ -91,10 +99,12 @@ export default function Layout() {
         )}
       </header>
 
-      <main id="main" className="wrap flex-1 pb-28 pt-6 sm:pt-10 md:pb-12">
-        <Suspense fallback={<Loading />}>
-          <Outlet />
-        </Suspense>
+      <main id="main" tabIndex={-1} className="wrap flex-1 outline-none pb-28 pt-6 sm:pt-10 md:pb-12">
+        <PageErrorBoundary resetKey={pathname}>
+          <Suspense fallback={<Loading />}>
+            <Outlet />
+          </Suspense>
+        </PageErrorBoundary>
       </main>
 
       <footer className="relative hidden overflow-hidden border-t border-ink-line md:block">

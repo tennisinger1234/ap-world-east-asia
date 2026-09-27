@@ -4,21 +4,40 @@ import Layout from './components/Layout'
 import Home from './pages/Home'
 
 // Pages load on demand; the mascot loading screen shows meanwhile (see Layout's Suspense).
-const LearnHub = lazy(() => import('./pages/LearnHub'))
-const Category = lazy(() => import('./pages/Category'))
-const Neighbors = lazy(() => import('./pages/Neighbors'))
-const Timeline = lazy(() => import('./pages/Timeline'))
-const Connections = lazy(() => import('./pages/Connections'))
-const Sources = lazy(() => import('./pages/Sources'))
-const SearchPage = lazy(() => import('./pages/SearchPage'))
-const NotFound = lazy(() => import('./pages/NotFound'))
-const PracticeHub = lazy(() => import('./pages/practice/PracticeHub'))
-const MCQ = lazy(() => import('./pages/practice/MCQ'))
-const SAQ = lazy(() => import('./pages/practice/SAQ'))
-const Flashcards = lazy(() => import('./pages/practice/Flashcards'))
-const SortIt = lazy(() => import('./pages/practice/SortIt'))
-const TimelineOrder = lazy(() => import('./pages/practice/TimelineOrder'))
-const ContinuityChange = lazy(() => import('./pages/practice/ContinuityChange'))
+// If a page file is missing because the site was redeployed while this tab was open,
+// reload once to fetch the new version instead of showing a blank screen.
+export const RELOAD_KEY = 'ap11-reloaded-for-update'
+const lazyPage = (load) =>
+  lazy(() =>
+    load().catch((err) => {
+      try {
+        if (!sessionStorage.getItem(RELOAD_KEY)) {
+          sessionStorage.setItem(RELOAD_KEY, '1')
+          window.location.reload()
+          return new Promise(() => {})
+        }
+      } catch {
+        /* storage unavailable: fall through to the error screen */
+      }
+      throw err
+    }),
+  )
+
+const LearnHub = lazyPage(() => import('./pages/LearnHub'))
+const Category = lazyPage(() => import('./pages/Category'))
+const Neighbors = lazyPage(() => import('./pages/Neighbors'))
+const Timeline = lazyPage(() => import('./pages/Timeline'))
+const Connections = lazyPage(() => import('./pages/Connections'))
+const Sources = lazyPage(() => import('./pages/Sources'))
+const SearchPage = lazyPage(() => import('./pages/SearchPage'))
+const NotFound = lazyPage(() => import('./pages/NotFound'))
+const PracticeHub = lazyPage(() => import('./pages/practice/PracticeHub'))
+const MCQ = lazyPage(() => import('./pages/practice/MCQ'))
+const SAQ = lazyPage(() => import('./pages/practice/SAQ'))
+const Flashcards = lazyPage(() => import('./pages/practice/Flashcards'))
+const SortIt = lazyPage(() => import('./pages/practice/SortIt'))
+const TimelineOrder = lazyPage(() => import('./pages/practice/TimelineOrder'))
+const ContinuityChange = lazyPage(() => import('./pages/practice/ContinuityChange'))
 
 function LegacyCategory() {
   const { id } = useParams()
