@@ -1,0 +1,3489 @@
+{
+  "meta": {
+    "title": "Song China & East Asia",
+    "shortTitle": "Song China · 1.1",
+    "course": "AP World History · Topic 1.1",
+    "eyebrow": "AP World History: Modern · Unit 1 · Topic 1.1",
+    "intro": "Topic 1.1 centers on Song China: a Confucian state run by exam-selected scholar-officials, and a commercial economy transformed by Champa rice, paper money, and maritime trade. This guide follows the Song through the seven PIRATES lenses, traces Chinese influence in Japan, Korea, and Vietnam, and then shows what continued and what changed under the Yuan and Ming.",
+    "learningObjective": "“The economy of Song China flourished as a result of increased productive capacity, expanding trade networks, and innovations in agriculture and manufacturing.” College Board, Topic 1.1, KC-3.1.I.D",
+    "footer": "AP World History study guide · Saddle River Day School",
+    "bibliographyNote": "Sources are listed alphabetically in Chicago notes-and-bibliography style. Footnotes on each page link here.",
+    "subtitle": "c. 1200–1450"
+  },
+  "categories": [
+    {
+      "id": "political",
+      "letter": "P",
+      "name": "Political",
+      "blurb": "How the Song governed through scholar-officials, and how it lost the north and then all of China."
+    },
+    {
+      "id": "intellectual",
+      "letter": "I",
+      "name": "Intellectual",
+      "blurb": "Neo-Confucianism, the exam culture, printing, and Song scientific inquiry."
+    },
+    {
+      "id": "religious",
+      "letter": "R",
+      "name": "Religious",
+      "blurb": "Buddhism, Daoism, and Confucianism side by side, plus foreign faiths in Song cities."
+    },
+    {
+      "id": "artistic",
+      "letter": "A",
+      "name": "Artistic",
+      "blurb": "Landscape painting, the three perfections, and porcelain for export."
+    },
+    {
+      "id": "technological",
+      "letter": "T",
+      "name": "Technological",
+      "blurb": "Champa rice, iron, the compass, gunpowder, and mechanical clocks."
+    },
+    {
+      "id": "economic",
+      "letter": "E",
+      "name": "Economic",
+      "blurb": "Commercial revolution: paper money, markets, silk, and sea trade."
+    },
+    {
+      "id": "social",
+      "letter": "S",
+      "name": "Social",
+      "blurb": "Confucian hierarchy, the scholar elite, women's lives, and city life."
+    }
+  ],
+  "eras": [
+    {
+      "id": "northern-song",
+      "name": "Northern Song",
+      "start": 960,
+      "end": 1127,
+      "focus": "song",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "southern-song",
+      "name": "Southern Song",
+      "start": 1127,
+      "end": 1279,
+      "focus": "song",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "yuan",
+      "name": "Yuan",
+      "start": 1279,
+      "end": 1368,
+      "focus": "context",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ming",
+      "name": "Ming",
+      "start": 1368,
+      "end": 1450,
+      "focus": "context",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "verified": true
+    }
+  ],
+  "overview": [
+    {
+      "id": "song",
+      "group": "song",
+      "name": "Song Dynasty",
+      "shortName": "Song",
+      "dates": "960–1279 (Southern Song 1127–1279)",
+      "start": 1200,
+      "end": 1279,
+      "summary": "After the Jurchen Jin took northern China and Kaifeng, the Southern Song ruled from Hangzhou. It was known for commercialization, Neo-Confucianism, and technology, and it fell to the Mongols by 1279.",
+      "sourceIds": [
+        "met-chronology",
+        "slides"
+      ],
+      "locators": {
+        "slides": "slide 3"
+      },
+      "verified": true
+    },
+    {
+      "id": "yuan",
+      "group": "context",
+      "name": "Yuan Dynasty (Mongol)",
+      "shortName": "Yuan",
+      "dates": "1271–1368",
+      "start": 1279,
+      "end": 1368,
+      "summary": "Khubilai Khan's Mongol dynasty ruled all of China from 1279, with its capital at Dadu (Beijing). It linked China to a Eurasia-wide empire but excluded many Chinese scholars from power.",
+      "sourceIds": [
+        "met-chronology",
+        "oer-eastasia",
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“What was the Mongols’ Influence on China?,” https://afe.easia.columbia.edu/mongols/china/china.htm"
+      },
+      "verified": true
+    },
+    {
+      "id": "ming",
+      "group": "context",
+      "name": "Ming Dynasty",
+      "shortName": "Ming",
+      "dates": "1368–1644",
+      "start": 1368,
+      "end": 1450,
+      "summary": "Founded by Zhu Yuanzhang (Emperor Hongwu) in 1368, the Ming restored native Chinese rule after drought, disease, and rebellion toppled the Yuan.",
+      "sourceIds": [
+        "met-chronology",
+        "oer-eastasia"
+      ],
+      "verified": true
+    },
+    {
+      "id": "japan",
+      "group": "neighbors",
+      "name": "Japan",
+      "dates": "Kamakura shogunate to 1333; Ashikaga from 1336",
+      "summary": "Emperors reigned but shoguns ruled. Warrior government, samurai, and Zen shaped the period, and Japan repelled Mongol invasions in 1274 and 1281.",
+      "sourceIds": [
+        "met-kamakura",
+        "oer-eastasia"
+      ],
+      "verified": true
+    },
+    {
+      "id": "korea",
+      "group": "neighbors",
+      "name": "Korea",
+      "dates": "Goryeo to 1392; Joseon from 1392",
+      "summary": "Goryeo modeled its government on China's, was conquered by the Mongols in the 1250s, and gave way to the Joseon dynasty in 1392.",
+      "sourceIds": [
+        "oer-eastasia",
+        "met-goryeo"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vietnam",
+      "group": "neighbors",
+      "name": "Vietnam (Dai Viet)",
+      "dates": "Tran 1225–1400; Le from 1428",
+      "summary": "Dai Viet adopted Confucian political ideas but defeated Mongol invasions and kept its independence.",
+      "sourceIds": [
+        "oer-ssea",
+        "oer-eastasia"
+      ],
+      "verified": true
+    }
+  ],
+  "items": [
+    {
+      "id": "pol-song-exams",
+      "category": "political",
+      "focus": "song",
+      "era": "song",
+      "title": "Song scholar-officials and the civil service exams",
+      "date": "960–1279",
+      "region": "China",
+      "summary": "The Song state was run by scholar-officials (shi) who won their posts by passing highly competitive civil service examinations on the Confucian classics. The exams helped counter the dominance of military men, and the number of candidates grew to hundreds of thousands, though aristocratic lineage was still the easiest path to power. Confucianism and this imperial bureaucracy helped the Song maintain and justify its rule.",
+      "globalConnection": "State building: like other Afro-Eurasian states of the 13th century, the Song used a traditional belief system (Confucianism) and a trained bureaucracy to legitimize and run a large empire.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "slides",
+        "afe-song",
+        "oer-eastasia",
+        "ced"
+      ],
+      "locators": {
+        "slides": "slide 4",
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-yuan",
+      "category": "political",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Mongol conquest and the Yuan Dynasty",
+      "date": "1271–1368",
+      "year": 1271,
+      "region": "China",
+      "summary": "Khubilai Khan took the Chinese dynastic name Yuan in 1271, and by 1279 all of China had fallen under Mongol rule, ending the Song. The Yuan moved the capital north to Dadu (present-day Beijing) and kept Chinese institutions such as the Six Ministries. However, the Mongols kept themselves separate from the Chinese and ranked the population in a four-group hierarchy with Mongols at the top.",
+      "globalConnection": "State building and expansion: the Yuan was one part of a Mongol Empire that stretched across Eurasia; Khubilai's own realm included China, Mongolia, Korea, and Tibet.",
+      "connectionType": "change",
+      "sourceIds": [
+        "met-chronology",
+        "afe-mongols",
+        "oer-eastasia"
+      ],
+      "locators": {
+        "afe-mongols": "“Khubilai Khan in China,” https://afe.easia.columbia.edu/mongols/china/china2.htm; “What was the Mongols’ Influence on China?,” https://afe.easia.columbia.edu/mongols/china/china.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-yuan-exams",
+      "category": "political",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Yuan limits on the civil service exams",
+      "date": "1271–1315",
+      "year": 1315,
+      "region": "China",
+      "summary": "The Mongols did not rely on Confucian exams to choose officials: the examinations remained banned until 1315, and even after the ban was lifted they were no longer the only path to office. Many educated Chinese were barred from government service, and the literati were largely ignored by the Mongol rulers.",
+      "globalConnection": "State building (change): conquering rulers often governed through their own people and foreign allies rather than local elites. Under the Yuan, Mongols and non-Han peoples from Central and Western Asia ranked above Chinese scholars.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-mongols",
+        "met-landscape",
+        "met-yuan"
+      ],
+      "locators": {
+        "afe-mongols": "“What was the Mongols’ Influence on China?,” https://afe.easia.columbia.edu/mongols/china/china.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-ming",
+      "category": "political",
+      "focus": "context",
+      "era": "ming",
+      "title": "Ming founding restores Han Chinese rule",
+      "date": "1368",
+      "year": 1368,
+      "region": "China",
+      "summary": "After drought, disease, rebellions, and ineffective leadership weakened the Yuan, Zhu Yuanzhang, who reigned as Emperor Hongwu (also known as Taizu), founded the Ming dynasty in 1368. He razed the Yuan palaces at Beijing and reestablished native Chinese control of China. Under the Ming, Zhu Xi's Neo-Confucian interpretation became accepted as orthodox.",
+      "globalConnection": "State building: the fall of the Yuan let a native Chinese dynasty restore Confucian political traditions, showing strong continuity in Chinese political culture despite a century of foreign rule.",
+      "connectionType": "change",
+      "sourceIds": [
+        "met-chronology",
+        "oer-eastasia",
+        "afe-mongols",
+        "afe-song"
+      ],
+      "locators": {
+        "afe-mongols": "“Beginnings of Mongol Collapse: Public Works Failures,” https://afe.easia.columbia.edu/mongols/china/china4_b.htm",
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-tribute",
+      "category": "political",
+      "focus": "song",
+      "era": "song",
+      "title": "Tribute relationships",
+      "date": "Tang–Song",
+      "region": "East Asia",
+      "summary": "Tribute is a payment given by a subordinate power to a dominant one. Korea, for example, was a vassal state that paid tribute to Tang China. The relationship could also run the other way: beginning in 1004, the Song bought peace with the northern Liao through large annual payments of silver and silk.",
+      "globalConnection": "State building and diplomacy: tribute tied East Asian states into a China-centered order, while Song payments to the steppe peoples show that power, not ideology alone, determined who paid whom.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "oer-eastasia",
+        "afe-song",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “Song Engagement with the Outside World,” https://afe.easia.columbia.edu/songdynasty-module/outside-rivals.html",
+        "slides": "slide 14"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "pol-song-rivals",
+      "category": "political",
+      "focus": "song",
+      "era": "song",
+      "title": "Northern rivals and the move south",
+      "date": "1127–1279",
+      "region": "China",
+      "summary": "Although Song China was East Asia's economic powerhouse, it was not militarily dominant: in an age when the horse was a major weapon, horse-riding northern states held the advantage. The Jurchen Jin pushed the Song out of North China and captured Kaifeng, and the court moved south, ruling as the Southern Song (1127–1279) from Hangzhou.",
+      "globalConnection": "State building in a multi-state world: the Song had to share East Asia with Inner Asian states that adopted Chinese statecraft while keeping their own ethnic identity.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-song",
+        "met-chronology",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “Song Engagement with the Outside World,” https://afe.easia.columbia.edu/songdynasty-module/outside-rivals.html",
+        "slides": "slide 3"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-song-fall",
+      "category": "political",
+      "focus": "song",
+      "era": "song",
+      "title": "Fall of the Southern Song to the Mongols",
+      "date": "1233–1279",
+      "region": "China",
+      "summary": "After defeating the Jurchen, the Mongols took the former Song capital of Kaifeng in 1233. Northern horse-riding armies were very hard for the Song to defeat in open battle, and by 1279 the Mongols had completed the conquest of Southern Song China. Mongol rule then ended more than three centuries of Song government.",
+      "globalConnection": "Cause and effect: the Mongol conquest tied China to a Eurasia-wide empire and set up the continuity-and-change story of the Yuan and Ming.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "met-chronology",
+        "afe-song",
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-song": "section “Song Engagement with the Outside World,” https://afe.easia.columbia.edu/songdynasty-module/outside-rivals.html",
+        "afe-mongols": "“Beginnings of Mongol Collapse: Military Successes & Failures,” https://afe.easia.columbia.edu/mongols/china/china4_a.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-japan-shogunate",
+      "category": "political",
+      "focus": "neighbors",
+      "title": "Kamakura and Ashikaga shogunates",
+      "date": "1192–1333; from 1336",
+      "year": 1336,
+      "region": "Japan",
+      "summary": "In Japan, military governments headed by a shogun (“top general”) held real power while the emperor remained the titular head of state: emperors reigned, but shoguns ruled. The Kamakura shogunate, founded by Minamoto Yoritomo, was toppled in 1333, and Ashikaga Takauji took control in 1336, beginning the Ashikaga shogunate. Landowning aristocrats and their samurai often fought one another, so power was decentralized.",
+      "globalConnection": "State building (comparison): Japan adopted much Chinese culture but not China's centralized exam bureaucracy; power rested with warrior elites, making Japan far more decentralized than China.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "met-kamakura",
+        "met-shoguns",
+        "oer-eastasia"
+      ],
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-mongol-japan",
+      "category": "political",
+      "focus": "neighbors",
+      "title": "Failed Mongol invasions of Japan",
+      "date": "1274 and 1281",
+      "year": 1274,
+      "region": "Japan",
+      "summary": "Using the captured Song fleet, the Mongols launched massive invasions of Japan in 1274 and 1281. The shogunate resisted, and typhoons, called kamikaze (“divine wind”) by the Japanese, destroyed the invading fleets. Japan remained independent of Mongol rule.",
+      "globalConnection": "Limits of expansion: together with Mongol failures in Vietnam and a disastrous 1292 expedition to Java, the invasions of Japan show where Mongol land power broke down at sea and in tropical environments.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "met-chronology",
+        "afe-mongols",
+        "oer-eastasia"
+      ],
+      "locators": {
+        "afe-mongols": "“Beginnings of Mongol Collapse: Military Successes & Failures,” https://afe.easia.columbia.edu/mongols/china/china4_a.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-korea",
+      "category": "political",
+      "focus": "neighbors",
+      "title": "Goryeo under the Mongols, then Joseon",
+      "date": "Goryeo to 1392; Joseon from 1392",
+      "year": 1392,
+      "region": "Korea",
+      "summary": "The Goryeo (Koryŏ) dynasty modeled its government and capital city on China's. The Mongols conquered Korea in the 1250s, forcing the migration of hundreds of thousands of people, and Korea became part of Khubilai Khan's realm. In 1392 a new dynasty, the Joseon (Chosŏn), took power.",
+      "globalConnection": "Cultural diffusion and conquest: Korea shows both the voluntary adoption of Chinese models and the forced integration that Mongol expansion brought across Eurasia.",
+      "connectionType": "change",
+      "sourceIds": [
+        "oer-eastasia",
+        "afe-mongols",
+        "met-goryeo"
+      ],
+      "locators": {
+        "afe-mongols": "“The Collapse of the Empire,” https://afe.easia.columbia.edu/mongols/conquests/conquests_4.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "pol-vietnam",
+      "category": "political",
+      "focus": "neighbors",
+      "title": "Dai Viet resists the Mongols",
+      "date": "Tran 1225–1400; Le from 1428",
+      "year": 1225,
+      "region": "Vietnam",
+      "summary": "Dai Viet (Vietnam) was ruled by the Tran dynasty (1225–1400) and then the Le dynasty (1428–1788). When the Mongols invaded, local forces defeated them, and Mongol armies were always eventually forced to withdraw because of adverse weather and disease.",
+      "globalConnection": "State building and resistance: Vietnam borrowed Chinese political ideas while fiercely defending its independence, a pattern of selective adoption seen across East Asia.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "oer-ssea",
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“Beginnings of Mongol Collapse: Military Successes & Failures,” https://afe.easia.columbia.edu/mongols/china/china4_a.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "int-neo-confucianism",
+      "category": "intellectual",
+      "focus": "song",
+      "era": "song",
+      "title": "Neo-Confucianism and Zhu Xi",
+      "date": "Zhu Xi 1130–1200; spread 1200–1450",
+      "region": "China → East Asia",
+      "summary": "Neo-Confucianism revived Confucian thought in response to the challenge of Buddhist metaphysics. Zhu Xi (1130–1200) synthesized major trends and made the Four Books the basis of Confucian learning and the civil service examinations. His interpretation became the orthodox version of Confucianism in later dynasties and in other East Asian countries.",
+      "globalConnection": "Cultural diffusion: Zhu Xi's Neo-Confucianism became the accepted interpretation of Confucianism in other East Asian countries, carrying Chinese ideas to Korea, Japan, and Vietnam.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "met-chronology",
+        "oer-eastasia",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "int-korean-type",
+      "category": "intellectual",
+      "focus": "neighbors",
+      "title": "Korean metal movable type",
+      "date": "1230s",
+      "year": 1230,
+      "region": "Korea",
+      "summary": "Cast-metal movable type began to be used in Korea in the early 13th century, and the first font was cast there in the 1230s. Korea took a Chinese invention, movable type, and developed it in a new material.",
+      "globalConnection": "Diffusion and adaptation of technology: an idea that spread from China was adapted and improved in Korea, showing that diffusion in East Asia was not simple copying.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-song"
+      ],
+      "locators": {
+        "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "int-yuan-science",
+      "category": "intellectual",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Persian and Arab learning in Yuan China",
+      "date": "c. 1271",
+      "year": 1271,
+      "region": "China",
+      "summary": "Around 1271, Khubilai Khan established an institute for Muslim astronomy, bringing Persian and Arab specialists to China. The Persian astronomer Jamal al-Din helped the Chinese set up an observatory and develop a new, more accurate calendar, and the Mongols also invited experts in Persian medicine.",
+      "globalConnection": "Cultural exchange: Mongol rule moved scholars and experts across Eurasia, so ideas traveled between the Islamic world and China along with goods.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "met-chronology",
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“The Mongols and Islam,” https://afe.easia.columbia.edu/mongols/history/history7_a.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "int-printing",
+      "category": "intellectual",
+      "focus": "song",
+      "era": "song",
+      "title": "Woodblock printing and movable type",
+      "date": "9th–11th centuries",
+      "region": "China",
+      "summary": "By the 9th century, Chinese printers carved words and pictures into wooden blocks to print texts. Bi Sheng (990–1051) created movable type from baked clay, but movable type was never widely used in China. Printing dramatically lowered the price of books, spreading literacy and Confucian texts.",
+      "globalConnection": "Knowledge networks: cheap printed Confucian manuals helped the same texts circulate across China and its neighbors.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html",
+        "slides": "slide 10"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "int-exam-culture",
+      "category": "intellectual",
+      "focus": "song",
+      "era": "song",
+      "title": "Exam culture and Confucian learning",
+      "date": "Song, to 1279",
+      "region": "China",
+      "summary": "Exam success carried such prestige that the number of candidates grew from fewer than 30,000 early in the Song to about 400,000 by the dynasty's end, with pass rates as low as one in 333 in some prefectures. To keep the exams fair, the government replaced candidates' names with numbers and had clerks recopy each exam. Candidates memorized the Confucian classics and even wrote poetry in set forms.",
+      "globalConnection": "Cause and effect: exam competition spread Confucian education and literacy far beyond the officials who actually passed.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "int-song-science",
+      "category": "intellectual",
+      "focus": "song",
+      "era": "song",
+      "title": "Scholar-scientists: Shen Gua",
+      "date": "11th century",
+      "region": "China",
+      "summary": "Quite a few educated men in Song times studied engineering and the physical world. The polymath Shen Gua (1031–1095) wrote the Dream Pool Essays, where he described the compass needle's deflection from due south, linked the tides to the moon, and explained how Bi Sheng made movable type.",
+      "globalConnection": "Continuity: Song scholarly inquiry shows China was, for a time, ahead of the West in fields such as magnetism and optics.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song"
+      ],
+      "locators": {
+        "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-experiment.html"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "rel-zen",
+      "category": "religious",
+      "focus": "neighbors",
+      "title": "Zen Buddhism and the samurai",
+      "date": "13th–15th centuries",
+      "region": "Japan",
+      "summary": "Chan Buddhism, which emphasized rigorous discipline and obedience to a master, spread from China to Japan, where it was called Zen. It was enthusiastically received by the samurai class, beginning in the 13th century. Inspired by Zen monk advisors and renewed contacts with China, the Ashikaga shoguns collected Song and Yuan paintings.",
+      "globalConnection": "Cultural diffusion: a Chinese Buddhist school was adapted to fit Japan's warrior culture, showing how belief systems change as they spread.",
+      "connectionType": "change",
+      "sourceIds": [
+        "met-zen",
+        "met-muromachi",
+        "met-shoguns",
+        "oer-eastasia"
+      ],
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-shinto",
+      "category": "religious",
+      "focus": "neighbors",
+      "title": "Shinto alongside Buddhism",
+      "date": "c. 1200–1450",
+      "region": "Japan",
+      "summary": "Buddhism did not replace Japan's native beliefs. Pure Land Buddhism was popular among ordinary people, who blended it with traditional Japanese religion called Shinto. Even shoguns embraced Shinto, and the god Hachiman combined aspects of Shinto and Buddhist practice.",
+      "globalConnection": "Syncretism: as Buddhism spread across Asia, it blended with local beliefs rather than erasing them.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "oer-eastasia",
+        "met-shoguns",
+        "oer-buddhism"
+      ],
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-china-buddhism-daoism",
+      "category": "religious",
+      "focus": "song",
+      "era": "song",
+      "title": "Buddhism and Daoism in China",
+      "date": "Tang–Song",
+      "region": "China",
+      "summary": "Buddhism flourished in the Tang and Song dynasties along with religious Daoism and a revival of Confucian thinking. By the Song, Buddhism had become very important to the Chinese state, but it existed alongside Daoist practices. Buddhism took many forms, including the Mahayana, Theravada, and Tibetan branches.",
+      "globalConnection": "Belief systems: Buddhism continued to shape societies across Asia through many branches, schools, and practices.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-state-religion",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-religion.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-syncretism",
+      "category": "religious",
+      "focus": "song",
+      "era": "song",
+      "title": "Syncretism of the three teachings",
+      "date": "Song",
+      "region": "China",
+      "summary": "In China, Buddhism blended with Confucian and Daoist ideas and was gradually made Chinese (Sinicization). Song society combined Confucian, Buddhist, and Daoist traditions in festivals and daily life. Neo-Confucianism itself took shape in response to Buddhist metaphysics.",
+      "globalConnection": "Syncretism: belief systems often changed as they spread, blending with existing traditions rather than replacing them.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "oer-why",
+        "oer-buddhism",
+        "afe-song",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html",
+        "slides": "slide 6"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-song-temples",
+      "category": "religious",
+      "focus": "song",
+      "era": "song",
+      "title": "Temples, pagodas, and Buddhist art",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "Pagodas dominated the skylines of many Song cities, and the highest structure in Kaifeng was a pagoda. Guanyin was a central figure in Song Buddhist art and worship. Song sculptors also made painted wooden figures of Buddhist deities such as Guanyin.",
+      "globalConnection": "Continuity of a belief system: Buddhism, which had flourished since the Tang, remained central to Chinese urban and artistic life.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-religion.html",
+        "slides": "slide 6"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-foreign-faiths",
+      "category": "religious",
+      "focus": "song",
+      "era": "song",
+      "title": "Foreign faiths in Song cities",
+      "date": "Tang–Song",
+      "region": "China",
+      "summary": "Song commercial cities drew foreign merchants and their religions. Hangzhou had been a cosmopolitan center of learning since the Tang dynasty, where Nestorian Christianity, Judaism, Zoroastrianism, and Islam brought by foreign merchants joined Buddhism and Confucianism. In 1163 a synagogue was built in Kaifeng to serve merchants in the caravan trade from Persia.",
+      "globalConnection": "Trade networks and cultural exchange: merchants carried their faiths along the Silk Roads and sea lanes into China's cities.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "met-chronology",
+        "afe-song",
+        "oer-eastasia"
+      ],
+      "locators": {
+        "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-new.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-yuan",
+      "category": "religious",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Yuan patronage of Tibetan Buddhism and Islam",
+      "date": "1269–1368",
+      "year": 1269,
+      "region": "China",
+      "summary": "Mongol khans generally embraced religious pluralism, and many Mongol leaders adopted Chinese or Tibetan forms of Buddhism. The Tibetan monk 'Phags-pa, a close advisor to Khubilai Khan, developed a script for Mongolian in 1269. The Yuan also supported Islam, built mosques, and employed Muslim financial administrators, though they restricted Daoism.",
+      "globalConnection": "Cultural exchange: Mongol rule moved officials, clergy, and religions across Eurasia, bringing Tibetan Buddhists and Muslims into the government of China.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-mongols",
+        "met-chronology",
+        "oer-state-religion"
+      ],
+      "locators": {
+        "afe-mongols": "“Life in China under Mongol Rule: Religion,” https://afe.easia.columbia.edu/mongols/china/china3_f.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "art-blue-white",
+      "category": "artistic",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Yuan blue-and-white porcelain",
+      "date": "c. 1350",
+      "year": 1350,
+      "region": "China",
+      "summary": "Painting in underglaze cobalt blue was known in China as early as the 8th century, but blue-and-white porcelain was developed during the Mongol era and became popular around 1350. Workshops made it both for the Yuan court and for trade.",
+      "globalConnection": "Trade networks: porcelain made for export was one of China's major manufactured goods.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "afe-mongols",
+        "met-chronology",
+        "ced"
+      ],
+      "locators": {
+        "afe-mongols": "“Life in China under Mongol Rule: For Artisans,” https://afe.easia.columbia.edu/mongols/china/china3_b.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "art-yuan-literati",
+      "category": "artistic",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Yuan literati painting (Zhao Mengfu)",
+      "date": "1271–1368",
+      "region": "China",
+      "summary": "Because many educated Chinese were barred from government service under the Mongols, the Song ideal of the scholar's retreat grew into a full alternative culture. Zhao Mengfu, who received a court post from Khubilai Khan, epitomized the new ideal of the scholar-amateur painter. Yuan artists created the “mind landscape,” using calligraphic brushwork to express the artist's inner spirit.",
+      "globalConnection": "Cause and effect: the Mongol political change (exclusion of scholars) produced a cultural change, as literati turned from government service to art.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "met-landscape",
+        "met-chinese-painting",
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“Life in China under Mongol Rule: Culture,” https://afe.easia.columbia.edu/mongols/china/china3_g.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "art-noh",
+      "category": "artistic",
+      "focus": "neighbors",
+      "title": "Japanese Noh theater",
+      "date": "14th century",
+      "region": "Japan",
+      "summary": "Noh (Nō) evolved from several strands of the performing arts and has been performed in Japan since the 14th century. The shogun Ashikaga Yoshimitsu supported the work of Kan'ami (1333–1384) and his son Zeami. Shogunal patronage helped a distinctly Japanese art form flourish.",
+      "globalConnection": "Cultural adaptation: while importing Chinese art and Zen, Japan's warrior rulers also promoted art forms of their own.",
+      "connectionType": "change",
+      "sourceIds": [
+        "met-noh",
+        "met-shoguns"
+      ],
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "art-song-landscape",
+      "category": "artistic",
+      "focus": "song",
+      "era": "song",
+      "title": "Song landscape painting",
+      "date": "c. 960–1279",
+      "year": 1080,
+      "region": "China",
+      "summary": "Song painters such as Guo Xi, whose Old Trees, Level Distance dates to about 1080, produced monumental landscapes. In the early Song, visions of the natural hierarchy became metaphors for the well-regulated state. Painting, poetry, and calligraphy were the “three perfections” practiced by the scholar elite.",
+      "globalConnection": "Continuity: Song landscape ideals shaped later East Asian painting; Ming court artists revived the Song image of the state as a well-ordered garden.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "met-landscape",
+        "afe-song",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-perfections.html",
+        "slides": "slide 13"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "art-song-ceramics",
+      "category": "artistic",
+      "focus": "song",
+      "era": "song",
+      "title": "Song porcelain and ceramics",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "Already in Song times, China was a ceramics-exporting country. Kilns made cups, bowls, plates, boxes, ink slabs, and pillows, and some could produce as many as 20,000 objects a day for sale at home and abroad. Shards of Song porcelain have been found all over Asia, and Song wares included Ding, Qingbai, Longquan, Jun, Guan, and Cizhou types.",
+      "globalConnection": "Trade networks: porcelain was one of the manufactured goods Song ships carried to India, the Red Sea, and beyond.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "afe-song",
+        "met-chronology",
+        "ced",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-ceramics.html",
+        "slides": "slide 13"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "art-scholar-arts",
+      "category": "artistic",
+      "focus": "song",
+      "era": "song",
+      "title": "The three perfections: Su Shi and Li Qingzhao",
+      "date": "11th–12th centuries",
+      "region": "China",
+      "summary": "Educated men practiced poetry, calligraphy, and painting, the “three perfections,” and much of elite social life centered on these arts. Su Shi (1036–1101), a celebrated scholar-official, poet, painter, and calligrapher, praised scholars' paintings for expressing ideas rather than mere appearance. Li Qingzhao (1084–c. 1151) became a famous poet in a new song-lyric form.",
+      "globalConnection": "Continuity: the Song ideal of the scholar-artist shaped East Asian elite culture for centuries, including Yuan literati painting.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-perfections.html; section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html",
+        "slides": "slide 13"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "art-ma-yuan",
+      "category": "artistic",
+      "focus": "song",
+      "era": "song",
+      "title": "Southern Song painting: Ma Yuan",
+      "date": "c. 1190–1225",
+      "region": "China",
+      "summary": "Ma Yuan, active about 1190–1225, painted Scholar Viewing a Waterfall, an album leaf in ink and color on silk signed “Servitor, Ma Yuan.” It shows a gentleman in a garden-like setting gazing into a cascade, with jagged pines contrasting with his quiet mood. Such works show the scholar-in-nature ideal of Southern Song art.",
+      "globalConnection": "Continuity: Southern Song painters carried on the landscape tradition and the scholar ideal into the 13th century.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "met-chinese-painting"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "art-celadon",
+      "category": "artistic",
+      "focus": "neighbors",
+      "title": "Goryeo celadon",
+      "date": "Goryeo dynasty, peak by mid-12th century",
+      "year": 1123,
+      "region": "Korea",
+      "summary": "Goryeo potters produced green-glazed celadons; a Song envoy who visited Korea in 1123 noted their resemblance to Chinese wares. By the mid-12th century, Goryeo potters turned to native tastes. Inlaid (sanggam) celadon, a rarity in China, was the culmination of the craft.",
+      "globalConnection": "Cultural diffusion and adaptation: Korea adopted a Chinese ceramic tradition and transformed it into a distinctive Korean art.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "met-goryeo"
+      ],
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "tech-gunpowder",
+      "category": "technological",
+      "focus": "song",
+      "era": "song",
+      "title": "Gunpowder weapons and their spread",
+      "date": "1044 formula; weapons 12th–13th centuries",
+      "region": "China",
+      "summary": "The first true gunpowder formula was recorded in a Song military manual of 1044. Song armies used bombs of gunpowder mixed with scrap iron and “fire-spurting lances,” and later weapons included exploding-tip arrows and cannons. The Mongols acquired gunpowder weapons by capturing Chinese engineers and gunners.",
+      "globalConnection": "Diffusion of technology: gunpowder weapons spread west across Eurasia, and Arab traders brought gunpowder to Europe.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-gunpowder.html; section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html",
+        "slides": "slide 10"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "tech-grand-canal",
+      "category": "technological",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Grand Canal extended to Beijing",
+      "date": "Yuan, 1271–1368",
+      "region": "China",
+      "summary": "Among the Yuan's public works projects was the extension of the Grand Canal to Daidu (Dadu, present-day Beijing), the new northern capital. Grand Canal expansion was a major transportation innovation of the period. The Yuan's costly projects eventually strained its finances.",
+      "globalConnection": "Trade networks: the canal linked China's northern political center to its productive south, strengthening internal trade.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-mongols",
+        "ced"
+      ],
+      "locators": {
+        "afe-mongols": "“Life in China under Mongol Rule: For Peasants,” https://afe.easia.columbia.edu/mongols/china/china3_a.htm; “Beginnings of Mongol Collapse: Public Works Failures,” https://afe.easia.columbia.edu/mongols/china/china4_b.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "tech-relay",
+      "category": "technological",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Mongol postal relay stations",
+      "date": "13th–14th centuries",
+      "region": "Mongol Empire",
+      "summary": "The Mongols built a vast postal-station system, originally to carry official mail across the empire. Stations were set up about every 20 miles along the major trade routes and stocked with food, horses, and lodging, which made them a great help to merchants and other travelers.",
+      "globalConnection": "Trade networks: fast, safe communication and transport under Mongol rule helped Eurasian trade expand during the Pax Mongolica.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“The Status of Merchants: Improved under Mongol Rule,” https://afe.easia.columbia.edu/mongols/history/history4_a.htm; “Life in China under Mongol Rule: For Peasants,” https://afe.easia.columbia.edu/mongols/china/china3_a.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "tech-champa",
+      "category": "technological",
+      "focus": "song",
+      "era": "song",
+      "title": "Champa rice",
+      "date": "introduced by 1012",
+      "year": 1012,
+      "region": "China",
+      "summary": "A new early-ripening, relatively drought-resistant rice was introduced to China from Champa (in present-day Vietnam), and by 1012 it had reached the lower Yangzi and Huai regions. It made double-cropping possible in some areas and spectacularly increased rice yields.",
+      "globalConnection": "Cause and effect: more food supported the population boom (about 100 million by 1100) and the commercialization of the Song economy that continued into 1200–1450.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "ced",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-rice.html",
+        "slides": "slide 9"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "tech-iron",
+      "category": "technological",
+      "focus": "song",
+      "era": "song",
+      "title": "Iron and steel production",
+      "date": "11th century",
+      "year": 1078,
+      "region": "China",
+      "summary": "Song iron production reached around 125,000 tons per year in 1078, a sixfold increase. By the end of the 11th century, coal had largely replaced charcoal as fuel.",
+      "globalConnection": "Continuity: large-scale iron and steel production supported Chinese tools, weapons, and trade goods into the 1200–1450 period.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-iron-steel.html"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "tech-compass",
+      "category": "technological",
+      "focus": "song",
+      "era": "song",
+      "title": "Magnetic compass and ocean-going junks",
+      "date": "12th century",
+      "year": 1119,
+      "region": "China",
+      "summary": "The first record of a compass used for navigation dates to 1119. Song shipbuilders built large ocean-going junks whose watertight bulkheads improved buoyancy. By about 1150, massive Chinese ships sailed as far as the Malabar Coast of India and the Red Sea.",
+      "globalConnection": "Trade networks: navigation technology made the Indian Ocean trade network safer and larger.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "met-chronology",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-compass.html",
+        "slides": "slide 10"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "tech-su-song",
+      "category": "technological",
+      "focus": "song",
+      "era": "song",
+      "title": "Su Song's mechanical clock tower",
+      "date": "11th century (design described 1092)",
+      "year": 1092,
+      "region": "China",
+      "summary": "The official Su Song (1020–1101) designed and built a mechanical clock tower almost 40 feet high by adding a chain-driven mechanism to a water-powered clock. It told the time of day, the day of the month, the phase of the moon, and the positions of certain stars and planets. At the top, a rotating armillary sphere showed the changing location of the planets and stars.",
+      "globalConnection": "Continuity: until about 1500, Chinese engineering was often more advanced than anything in Europe.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song"
+      ],
+      "locators": {
+        "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-experiment.html"
+      },
+      "verified": true,
+      "background": true
+    },
+    {
+      "id": "econ-paper-money",
+      "category": "economic",
+      "focus": "song",
+      "era": "song",
+      "title": "Paper money",
+      "date": "Song–Yuan",
+      "region": "China",
+      "summary": "Chinese merchants began trading paper receipts from deposit shops instead of heavy copper coins, and in the 1020s the Song government took over the system, producing the world's first government-issued paper money. The Yuan increased the amount of paper money in circulation, but deliberate inflation late in Khubilai Khan's reign weakened its value.",
+      "globalConnection": "Trade networks: paper money made long-distance trade easier, and Mongol support for paper currency helped spread it across Eurasia.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia",
+        "afe-mongols",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-money.html",
+        "afe-mongols": "“Beginnings of Mongol Collapse: Public Works Failures,” https://afe.easia.columbia.edu/mongols/china/china4_b.htm",
+        "slides": "slide 9"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "econ-commercialization",
+      "category": "economic",
+      "focus": "song",
+      "era": "song",
+      "title": "Commercialization and cities (Hangzhou)",
+      "date": "12th–13th centuries",
+      "region": "China",
+      "summary": "By 1100, China's population had reached about 100 million, and farmers increasingly grew cash crops such as tea, sugar, and cotton for sale. Hangzhou became the Southern Song capital in 1132, and a century later its population may have reached one million, making it the largest city in China and perhaps the world. By 1200, at least six Chinese cities had over 100,000 people.",
+      "globalConnection": "Economic systems: the Song economy grew more commercialized while still depending on free peasant and artisanal labor.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-intro-pop.html; section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-hangzhou.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "econ-pax-mongolica",
+      "category": "economic",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Silk Roads under the Pax Mongolica",
+      "date": "13th–14th centuries",
+      "year": 1275,
+      "region": "Eurasia",
+      "summary": "Having conquered an enormous territory, the Mongols guaranteed the security of travelers, so traders were generally not in danger during roughly 100 years of Mongol domination. The Mongols supported trade and improved the status of merchants. The Venetian merchant Marco Polo was in China from 1275 to 1291.",
+      "globalConnection": "Trade networks and cultural exchange: the Pax Mongolica revived Silk Road trade and let goods, people, ideas, and technologies move across Eurasia.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“Pax Monglica: The Mongolian Peace,” https://afe.easia.columbia.edu/mongols/history/history5.htm; “Marco Polo,” https://afe.easia.columbia.edu/mongols/figures/figu_polo.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "econ-indian-ocean",
+      "category": "economic",
+      "focus": "song",
+      "era": "song",
+      "title": "Indian Ocean trade and Quanzhou",
+      "date": "12th–14th centuries",
+      "year": 1225,
+      "region": "China",
+      "summary": "Under the Song, maritime trade for the first time exceeded overland foreign trade. From coastal cities such as Quanzhou, ships carrying Chinese goods like silk and porcelain sailed from Japan to East Africa. A 1225 guide by Zhao Rukua described trading partners from Srivijaya to Cairo.",
+      "globalConnection": "Trade networks: Chinese silk and porcelain linked East Asia to Southeast Asia, India, the Middle East, and East Africa through the Indian Ocean.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-song",
+        "met-chronology"
+      ],
+      "locators": {
+        "afe-song": "section “Song Engagement with the Outside World,” https://afe.easia.columbia.edu/songdynasty-module/outside-trade.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "econ-silk",
+      "category": "economic",
+      "focus": "song",
+      "era": "song",
+      "title": "Silk and textiles",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "Silk was the most highly prized fabric at home and abroad, while common people mostly wore hemp and ramie. Raising silkworms and reeling, spinning, and weaving plain silk was women's work at home, while professional weavers, mostly men in government or private workshops, wove damasks, brocades, and gauzes for the elite. Silk was produced by the state, urban workshops, and above all individual households.",
+      "globalConnection": "Trade networks: textiles were a major Song export, and silk also served as gifts and tribute between states.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-silk",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-silk.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "econ-markets-guilds",
+      "category": "economic",
+      "focus": "song",
+      "era": "song",
+      "title": "Markets, merchants, and guilds",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "The old Tang system that confined trade to set sites and hours broke down as commerce spread through cities and into the countryside. Farmers sold surpluses and specialized in commercial crops. Merchants formed partnerships and joint stock companies that separated owners from managers, and city guilds set prices and dealt with the government.",
+      "globalConnection": "Change in economic systems: new business institutions such as joint stock companies and guilds supported the growth of long-distance trade.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-song"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-commercial.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "econ-zheng-he",
+      "category": "economic",
+      "focus": "context",
+      "era": "ming",
+      "title": "Zheng He's voyages",
+      "date": "1405–1433",
+      "year": 1405,
+      "region": "China",
+      "summary": "Under the Yongle emperor (r. 1403–1424), the Muslim grand eunuch and Ming admiral Zheng He (1371–1435) led seven large naval expeditions between 1405 and 1433. Some fleets had 300 ships and 27,000 sailors. The first four expeditions reached India and Persia, and the last three reached Africa.",
+      "globalConnection": "Trade networks: Chinese maritime activity under Zheng He encouraged significant technological and cultural transfers across the Indian Ocean.",
+      "connectionType": "change",
+      "sourceIds": [
+        "met-chronology-1400",
+        "ced"
+      ],
+      "verified": true,
+      "background": false,
+      "locators": {
+        "ced": "58"
+      }
+    },
+    {
+      "id": "soc-confucian-hierarchy",
+      "category": "social",
+      "focus": "song",
+      "era": "song",
+      "title": "Confucian hierarchy and filial piety",
+      "date": "continuous",
+      "region": "East Asia",
+      "summary": "Confucianism taught that order depended on five relationships: ruler–subject, father–son, husband–wife, elder–younger sibling, and friend–friend, each with mutual duties. Filial piety, respect and obedience toward parents, extended to ancestors through family rituals. These hierarchies shaped family life and government throughout East Asia.",
+      "globalConnection": "Cultural diffusion: filial piety spread from China to neighboring East Asian societies.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "oer-confucianism",
+        "oer-eastasia",
+        "afe-song",
+        "slides",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html",
+        "slides": "slide 5"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-foot-binding",
+      "category": "social",
+      "focus": "song",
+      "era": "song",
+      "title": "Foot binding",
+      "date": "Song and after",
+      "region": "China",
+      "summary": "Foot binding began in Song times. Song Confucian teachers also argued against widows remarrying, and compared with Tang times, women were less active in politics and less often seen on the streets.",
+      "globalConnection": "Continuity in gender roles: Confucian ideals kept women's proper realm in the household even as the Song economy grew.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html",
+        "slides": "slide 11"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-women",
+      "category": "social",
+      "focus": "song",
+      "era": "song",
+      "title": "Women's legal status and economic roles",
+      "date": "Song–Yuan",
+      "region": "China",
+      "summary": "Women's rights to property were relatively secure in Song times, and older women were often very powerful within their families. Women raised silkworms, spun silk thread, and wove textiles, work that could earn them money. However, the civil service exams were not open to women.",
+      "globalConnection": "Continuity: Confucian tradition expected both respect for women and deference from them.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-eastasia",
+        "oer-silk",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-four-classes",
+      "category": "social",
+      "focus": "song",
+      "era": "song",
+      "title": "Four social classes: shi, nong, gong, shang",
+      "date": "continuous",
+      "region": "China",
+      "summary": "Song society included scholar-officials (shi), peasants (nong), artisans (gong), and merchants (shang). Scholar-officials gained prestige from their learning and government service, while merchants were traditionally given relatively low status even when commerce made them rich. The Song economy depended on free peasant and artisanal labor.",
+      "globalConnection": "Social structures: commercialization made many merchants rich even though Confucian tradition gave them low status.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "slides",
+        "afe-song",
+        "afe-mongols",
+        "ced"
+      ],
+      "locators": {
+        "slides": "slide 8",
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html",
+        "afe-mongols": "“Life in China under Mongol Rule: For Merchants,” https://afe.easia.columbia.edu/mongols/china/china3_c.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-urban-life",
+      "category": "social",
+      "focus": "song",
+      "era": "song",
+      "title": "City life and the urban elite",
+      "date": "12th–13th centuries",
+      "year": 1235,
+      "region": "China",
+      "summary": "Dozens of Song cities had 50,000 or more residents, and unlike the Tang capital, the Song capitals had no walled wards, so markets and shops lined the streets. The government ran fire stations, distributed alms, and operated public clinics, old age homes, and paupers' graveyards. A 1235 text lists Hangzhou clubs such as the West Lake Poetry Club and the Buddhist Tea Society.",
+      "globalConnection": "Change: commercialization created a new kind of open, crowded city. Each Song capital had about a million residents, while London had about 15,000.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-song"
+      ],
+      "locators": {
+        "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-new.html; section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-hangzhou.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-scholar-gentry",
+      "category": "social",
+      "focus": "song",
+      "era": "song",
+      "title": "The scholar-official elite",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "Most scholars came from the landholding class but gained prestige from learning and political influence from office. In a mostly illiterate society, their education set them apart, and Confucian training encouraged them to criticize officials they thought wrong. Men passed the exams, on average, at a little over 30, and most who studied for years never became officials.",
+      "globalConnection": "Social structures: an elite defined by education rather than birth alone distinguished Song China from warrior-led societies such as Japan.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "slides"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html",
+        "slides": "slide 4"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-yuan-hierarchy",
+      "category": "social",
+      "focus": "context",
+      "era": "yuan",
+      "title": "Yuan ethnic hierarchy",
+      "date": "1271–1368",
+      "region": "China",
+      "summary": "The Mongols classified the population of China into a hierarchy of four groups. Mongols were at the top, followed by the non-Han, mostly Islamic population of Central and Western Asia, then the northern Chinese, with the southern Chinese at the bottom. Southern Chinese faced deliberate discrimination.",
+      "globalConnection": "Change in social structure: the Yuan ranked subjects by ethnicity, replacing the Song order headed by Confucian scholar-officials.",
+      "connectionType": "change",
+      "sourceIds": [
+        "afe-mongols",
+        "met-yuan"
+      ],
+      "locators": {
+        "afe-mongols": "“What was the Mongols’ Influence on China?,” https://afe.easia.columbia.edu/mongols/china/china.htm"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-japan-warriors",
+      "category": "social",
+      "focus": "neighbors",
+      "title": "Japanese warrior hierarchy",
+      "date": "c. 1200–1450",
+      "region": "Japan",
+      "summary": "The emperor remained Japan's titular head, but real power lay with the shogun and the warrior class. Landowning aristocrats kept bands of warriors, called samurai, who often fought one another. Zen Buddhism was especially popular among the samurai class.",
+      "globalConnection": "Social structures (comparison): Japan's social order was built around military service to lords, unlike China's order headed by exam-selected scholars.",
+      "connectionType": "change",
+      "sourceIds": [
+        "oer-eastasia",
+        "met-kamakura",
+        "met-zen"
+      ],
+      "verified": true,
+      "background": false
+    }
+  ],
+  "chains": [
+    {
+      "id": "chain-rice",
+      "title": "From Champa rice to a commercial revolution",
+      "theme": "Causation · Economic and technological",
+      "steps": [
+        {
+          "label": "Cause",
+          "text": "Fast-ripening, drought-resistant Champa rice allows double-cropping.",
+          "itemId": "tech-champa"
+        },
+        {
+          "label": "Effect",
+          "text": "China's population doubles, reaching about 100 million by 1100.",
+          "sourceIds": [
+            "afe-song",
+            "slides"
+          ],
+          "locators": {
+            "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-intro-pop.html",
+            "slides": "slide 9"
+          }
+        },
+        {
+          "label": "Effect",
+          "text": "Farmers grow cash crops for markets, and cities like Hangzhou reach about a million people.",
+          "itemId": "econ-commercialization"
+        },
+        {
+          "label": "Effect",
+          "text": "Growing trade creates demand for paper money and credit.",
+          "itemId": "econ-paper-money"
+        }
+      ]
+    },
+    {
+      "id": "chain-mongol-scholars",
+      "title": "Mongol conquest reshapes Chinese government and culture",
+      "theme": "Causation · Political → artistic",
+      "steps": [
+        {
+          "label": "Cause",
+          "text": "Khubilai Khan founds the Yuan and completes the conquest of the Song by 1279.",
+          "itemId": "pol-yuan"
+        },
+        {
+          "label": "Effect",
+          "text": "Exams are banned until 1315, and many educated Chinese are barred from office.",
+          "itemId": "pol-yuan-exams"
+        },
+        {
+          "label": "Effect",
+          "text": "Excluded literati build an alternative culture; Zhao Mengfu and the “mind landscape.”",
+          "itemId": "art-yuan-literati"
+        },
+        {
+          "label": "Long-term effect",
+          "text": "The Ming restore native rule in 1368, and Zhu Xi's Neo-Confucianism becomes orthodox.",
+          "itemId": "pol-ming"
+        }
+      ]
+    },
+    {
+      "id": "chain-pax",
+      "title": "Pax Mongolica and Eurasian exchange",
+      "theme": "Causation · Trade networks and cultural exchange",
+      "steps": [
+        {
+          "label": "Cause",
+          "text": "Mongol conquests unite much of Eurasia and make travel safe.",
+          "itemId": "econ-pax-mongolica"
+        },
+        {
+          "label": "Effect",
+          "text": "Relay stations and support for merchants speed trade and communication.",
+          "itemId": "tech-relay"
+        },
+        {
+          "label": "Effect",
+          "text": "Persian and Arab experts, Muslim administrators, and Tibetan Buddhists serve the Yuan.",
+          "itemId": "rel-yuan"
+        },
+        {
+          "label": "Effect",
+          "text": "Blue-and-white porcelain is produced for the Yuan court and for trade.",
+          "itemId": "art-blue-white"
+        }
+      ]
+    },
+    {
+      "id": "chain-japan",
+      "title": "Why Japan stayed independent",
+      "theme": "Causation · Political",
+      "steps": [
+        {
+          "label": "Cause",
+          "text": "The Mongols capture the Song fleet in conquering southern China.",
+          "sourceIds": [
+            "met-chronology"
+          ]
+        },
+        {
+          "label": "Event",
+          "text": "Massive invasions of Japan are launched in 1274 and 1281.",
+          "itemId": "pol-mongol-japan"
+        },
+        {
+          "label": "Effect",
+          "text": "Shogunate resistance and typhoons (kamikaze) destroy the fleets.",
+          "itemId": "pol-mongol-japan"
+        },
+        {
+          "label": "Effect",
+          "text": "Japan keeps its warrior government and continues selective borrowing from China.",
+          "itemId": "pol-japan-shogunate"
+        }
+      ]
+    },
+    {
+      "id": "chain-diffusion",
+      "title": "Chinese traditions travel and are adapted",
+      "theme": "Causation · Cultural diffusion",
+      "steps": [
+        {
+          "label": "Cause",
+          "text": "Chinese influence spreads through texts, objects, ambassadors, marriage, and traveling scholars, merchants, and monks.",
+          "sourceIds": [
+            "oer-eastasia"
+          ]
+        },
+        {
+          "label": "Effect",
+          "text": "Japan: Chan becomes Zen and is embraced by the samurai.",
+          "itemId": "rel-zen"
+        },
+        {
+          "label": "Effect",
+          "text": "Korea: movable type is recast in metal; celadon becomes inlaid sanggam ware.",
+          "itemId": "int-korean-type"
+        },
+        {
+          "label": "Effect",
+          "text": "Neo-Confucianism becomes orthodox across East Asia.",
+          "itemId": "int-neo-confucianism"
+        }
+      ]
+    }
+  ],
+  "continuityChange": [
+    {
+      "id": "ccot-exams",
+      "theme": "Civil service exams",
+      "song": "Scholar-officials selected through competitive exams on the Confucian classics.",
+      "yuan": "Exams banned until 1315; afterward no longer the only path to office.",
+      "ming": "Imperial exams, based on official Confucian compendia issued in 1415 and 1417, lead to government posts.",
+      "verdict": "change",
+      "verdictNote": "Changed under the Yuan; the exam tradition continued under the Ming.",
+      "sourceIds": [
+        "afe-song",
+        "afe-mongols",
+        "met-chronology-1400"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html",
+        "afe-mongols": "“What was the Mongols’ Influence on China?,” https://afe.easia.columbia.edu/mongols/china/china.htm"
+      },
+      "itemIds": [
+        "pol-song-exams",
+        "pol-yuan-exams",
+        "pol-ming"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ccot-rulers",
+      "theme": "Who rules",
+      "song": "Native Chinese emperors, ruling through Confucian scholar-officials.",
+      "yuan": "Mongol khans; population ranked in four groups with southern Chinese at the bottom.",
+      "ming": "Native Chinese rule restored by Zhu Yuanzhang (Hongwu).",
+      "verdict": "change",
+      "verdictNote": "Foreign rule was a break; the Ming returned to Chinese rule.",
+      "sourceIds": [
+        "afe-mongols",
+        "met-chronology"
+      ],
+      "locators": {
+        "afe-mongols": "“What was the Mongols’ Influence on China?,” https://afe.easia.columbia.edu/mongols/china/china.htm"
+      },
+      "itemIds": [
+        "pol-yuan",
+        "pol-ming",
+        "soc-yuan-hierarchy"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ccot-confucianism",
+      "theme": "Confucian ideology",
+      "song": "Zhu Xi synthesizes Neo-Confucianism and makes the Four Books central.",
+      "yuan": "Literati largely ignored by rulers but keep Confucian and scholarly culture alive.",
+      "ming": "Zhu Xi's interpretation accepted as orthodox.",
+      "verdict": "continuity",
+      "verdictNote": "Confucian ideas survived foreign rule.",
+      "sourceIds": [
+        "afe-song",
+        "met-yuan",
+        "met-landscape"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html"
+      },
+      "itemIds": [
+        "int-neo-confucianism"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ccot-trade",
+      "theme": "Trade and money",
+      "song": "Maritime trade exceeds overland trade; government-issued paper money.",
+      "yuan": "Pax Mongolica protects Silk Road trade; more paper money, then inflation.",
+      "ming": "Zheng He leads seven naval expeditions (1405–1433) that reach India, Persia, and Africa.",
+      "verdict": "continuity",
+      "verdictNote": "China remained central to Afro-Eurasian trade.",
+      "sourceIds": [
+        "afe-song",
+        "afe-mongols",
+        "met-chronology-1400"
+      ],
+      "locators": {
+        "afe-song": "section “Song Engagement with the Outside World,” https://afe.easia.columbia.edu/songdynasty-module/outside-trade.html",
+        "afe-mongols": "“Pax Monglica: The Mongolian Peace,” https://afe.easia.columbia.edu/mongols/history/history5.htm"
+      },
+      "itemIds": [
+        "econ-indian-ocean",
+        "econ-pax-mongolica",
+        "econ-zheng-he"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ccot-art",
+      "theme": "Painting",
+      "song": "Landscapes as metaphors for a well-regulated state.",
+      "yuan": "Literati “mind landscapes” express personal feeling (Zhao Mengfu).",
+      "ming": "Court artists revive the Song metaphor; literati follow Yuan scholar-artists.",
+      "verdict": "continuity",
+      "verdictNote": "Each dynasty built on earlier styles.",
+      "sourceIds": [
+        "met-landscape",
+        "met-chinese-painting"
+      ],
+      "itemIds": [
+        "art-song-landscape",
+        "art-yuan-literati"
+      ],
+      "verified": true
+    }
+  ],
+  "neighbors": {
+    "intro": "Chinese influence spread through written texts, imported objects, visiting ambassadors, marriage, and traveling scholars, students, merchants, musicians, and monks. Japan, Korea, and Vietnam each adopted Chinese elements selectively and adapted them to local traditions.",
+    "societies": [
+      {
+        "id": "japan",
+        "name": "Japan",
+        "states": "Kamakura (to 1333) → Ashikaga (from 1336)",
+        "summary": "Japan borrowed Chinese religion, writing, and art while keeping political power in warrior hands.",
+        "adopted": [
+          {
+            "label": "Buddhism",
+            "text": "Chan Buddhism arrived from China and became Zen, which the samurai embraced.",
+            "sourceIds": [
+              "met-zen",
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Confucian ideas",
+            "text": "Confucian political ideas were adapted in Japan.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Writing",
+            "text": "Chinese writing was adapted for local use, and Chinese remained the language of scholarly writing and official documents.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Chinese art",
+            "text": "Ashikaga shoguns collected Song and Yuan dynasty paintings and renewed contacts with China.",
+            "sourceIds": [
+              "met-shoguns"
+            ],
+            "verified": true
+          }
+        ],
+        "adapted": [
+          {
+            "label": "Shogunate",
+            "text": "Military government by shoguns, while the emperor remained the titular head of state.",
+            "sourceIds": [
+              "met-kamakura",
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Samurai",
+            "text": "Landowning aristocrats kept bands of warriors called samurai, and Zen Buddhism was embraced by the samurai class.",
+            "sourceIds": [
+              "oer-eastasia",
+              "met-zen"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Shinto",
+            "text": "Native Shinto beliefs continued alongside and blended with Buddhism.",
+            "sourceIds": [
+              "met-shoguns",
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Kana scripts",
+            "text": "A script for writing Japanese phonetically spread in the Heian period (794–1185), before this unit, and was used for poetry and memoirs, some by women.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true,
+            "background": true
+          },
+          {
+            "label": "Noh theater",
+            "text": "A distinctive Japanese theater supported by the Ashikaga shoguns.",
+            "sourceIds": [
+              "met-noh"
+            ],
+            "verified": true
+          }
+        ]
+      },
+      {
+        "id": "korea",
+        "name": "Korea",
+        "states": "Goryeo (to 1392) → Joseon (from 1392)",
+        "summary": "Korea modeled its state closely on China's but developed its own printing technology and ceramics.",
+        "adopted": [
+          {
+            "label": "Government",
+            "text": "Goryeo modeled its government and capital city on China's.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Confucianism",
+            "text": "Confucian political ideas shaped Korean government.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Buddhism and writing",
+            "text": "Buddhist teachings and Chinese writing were adapted for local use.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Tribute",
+            "text": "Korea had been a tribute-paying vassal of Tang China.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true,
+            "background": true
+          },
+          {
+            "label": "Ceramics",
+            "text": "Early Goryeo celadons resembled wares from China's kilns.",
+            "sourceIds": [
+              "met-goryeo"
+            ],
+            "verified": true
+          }
+        ],
+        "adapted": [
+          {
+            "label": "Metal movable type",
+            "text": "Cast-metal type was used by the early 13th century, and the first font was cast in the 1230s.",
+            "sourceIds": [
+              "afe-song"
+            ],
+            "locators": {
+              "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html"
+            },
+            "verified": true
+          },
+          {
+            "label": "Sanggam celadon",
+            "text": "Inlaid celadon, a rarity in China, reflected native Korean taste.",
+            "sourceIds": [
+              "met-goryeo"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Joseon dynasty",
+            "text": "When Mongol rule collapsed, a new Korean dynasty, the Chosŏn (Joseon), took power in 1392.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true
+          }
+        ]
+      },
+      {
+        "id": "vietnam",
+        "name": "Vietnam",
+        "states": "Dai Viet: Tran (1225–1400) → Le (from 1428)",
+        "summary": "Vietnam adopted Confucian government while resisting Chinese and Mongol domination.",
+        "adopted": [
+          {
+            "label": "Confucianism",
+            "text": "Confucian political ideas were adapted in Vietnam, and Confucianism shaped social and cultural values.",
+            "sourceIds": [
+              "oer-eastasia",
+              "oer-ssea"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Buddhism and writing",
+            "text": "Buddhist teachings and Chinese writing were adapted for local use.",
+            "sourceIds": [
+              "oer-eastasia"
+            ],
+            "verified": true
+          }
+        ],
+        "adapted": [
+          {
+            "label": "Independence",
+            "text": "Local forces under the Tran dynasty defeated Mongol invasions.",
+            "sourceIds": [
+              "oer-ssea",
+              "afe-mongols"
+            ],
+            "locators": {
+              "afe-mongols": "“Beginnings of Mongol Collapse: Military Successes & Failures,” https://afe.easia.columbia.edu/mongols/china/china4_a.htm"
+            },
+            "verified": true
+          },
+          {
+            "label": "Vietnamese identity",
+            "text": "In the 11th century, regional overlords expelled the Chinese and created the kingdom of Dai Viet. Confucianism shaped its values, but a strong sense of Vietnamese identity also developed.",
+            "sourceIds": [
+              "oer-ssea"
+            ],
+            "verified": true,
+            "background": true
+          },
+          {
+            "label": "Village councils",
+            "text": "In much of Southeast Asia, villages governed themselves through councils, and women had significant legal rights.",
+            "sourceIds": [
+              "oer-ssea"
+            ],
+            "verified": true
+          },
+          {
+            "label": "Champa rice",
+            "text": "Early-ripening rice from Champa, in present-day Vietnam, spread to China, showing diffusion in the other direction.",
+            "sourceIds": [
+              "afe-song"
+            ],
+            "locators": {
+              "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-rice.html"
+            },
+            "verified": true,
+            "background": true
+          }
+        ]
+      }
+    ]
+  },
+  "timelineEvents": [
+    {
+      "id": "ev-1127",
+      "year": 1127,
+      "label": "Jurchen Jin take Kaifeng; Song court moves south to Hangzhou (Southern Song)",
+      "category": "political",
+      "sourceIds": [
+        "met-chronology",
+        "slides"
+      ],
+      "locators": {
+        "slides": "slide 3"
+      },
+      "verified": true
+    },
+    {
+      "id": "ev-1206",
+      "year": 1206,
+      "label": "Temüjin is enthroned as Chinggis (Genghis) Khan of the Mongols",
+      "category": "political",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ev-1233",
+      "year": 1233,
+      "label": "Kaifeng surrenders to the Mongols",
+      "category": "political",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ev-1250s",
+      "year": 1255,
+      "date": "1250s",
+      "label": "Mongols conquer Korea",
+      "category": "political",
+      "sourceIds": [
+        "oer-eastasia"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ev-1260",
+      "year": 1260,
+      "label": "Khubilai Khan ascends the Mongol throne",
+      "category": "political",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ev-1279",
+      "year": 1279,
+      "label": "All of China falls under Mongol rule; the Song dynasty ends",
+      "category": "political",
+      "sourceIds": [
+        "met-chronology",
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“Beginnings of Mongol Collapse: Military Successes & Failures,” https://afe.easia.columbia.edu/mongols/china/china4_a.htm"
+      },
+      "verified": true
+    },
+    {
+      "id": "ev-1281",
+      "year": 1281,
+      "label": "Second Mongol invasion of Japan destroyed by typhoon (kamikaze)",
+      "category": "political",
+      "sourceIds": [
+        "met-chronology"
+      ],
+      "itemId": "pol-mongol-japan",
+      "verified": true
+    },
+    {
+      "id": "ev-1292",
+      "year": 1292,
+      "label": "Failed Mongol expedition to Java",
+      "category": "political",
+      "sourceIds": [
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“Beginnings of Mongol Collapse: Military Successes & Failures,” https://afe.easia.columbia.edu/mongols/china/china4_a.htm"
+      },
+      "verified": true
+    },
+    {
+      "id": "ev-1333",
+      "year": 1333,
+      "label": "Kamakura shogunate toppled",
+      "category": "political",
+      "sourceIds": [
+        "met-kamakura"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ev-1340s",
+      "year": 1344,
+      "date": "1340s",
+      "label": "Floods change the course of the Yellow River, weakening the Yuan",
+      "category": "political",
+      "sourceIds": [
+        "afe-mongols"
+      ],
+      "locators": {
+        "afe-mongols": "“Beginnings of Mongol Collapse: Public Works Failures,” https://afe.easia.columbia.edu/mongols/china/china4_b.htm"
+      },
+      "verified": true
+    },
+    {
+      "id": "ev-1428",
+      "year": 1428,
+      "label": "Le dynasty begins in Dai Viet",
+      "category": "political",
+      "sourceIds": [
+        "oer-ssea"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ev-1433",
+      "year": 1433,
+      "label": "Zheng He's seven expeditions (1405–1433) come to an end",
+      "category": "economic",
+      "sourceIds": [
+        "met-chronology-1400"
+      ],
+      "itemId": "econ-zheng-he",
+      "verified": true,
+      "date": "1433"
+    }
+  ],
+  "photos": [
+    {
+      "id": "img-guo-xi",
+      "file": "met-guo-xi-old-trees.jpg",
+      "itemId": "art-song-landscape",
+      "alt": "A long horizontal ink landscape of gnarled old trees on a riverbank, with small travelers and distant hills.",
+      "caption": "Guo Xi, Old Trees, Level Distance, ca. 1080. A Northern Song handscroll in ink and color on silk.",
+      "sourceId": "src-img-guo-xi",
+      "verified": true
+    },
+    {
+      "id": "img-ma-yuan",
+      "file": "met-ma-yuan-scholar-waterfall.jpg",
+      "itemId": "art-ma-yuan",
+      "alt": "An album leaf showing a seated scholar beneath a jagged pine, gazing at a waterfall.",
+      "caption": "Ma Yuan, Scholar Viewing a Waterfall, early 13th century. A Southern Song album leaf in ink and color on silk.",
+      "sourceId": "src-img-ma-yuan",
+      "verified": true
+    },
+    {
+      "id": "img-li-gonglin",
+      "file": "met-li-gonglin-filial-piety.jpg",
+      "itemId": "soc-confucian-hierarchy",
+      "alt": "A section of a handscroll illustrating a scene of family respect, with figures before a seated elder.",
+      "caption": "Li Gonglin, The Classic of Filial Piety (section), ca. 1085. A Northern Song handscroll illustrating the Confucian classic on respect for parents.",
+      "sourceId": "src-img-li-gonglin",
+      "verified": true
+    },
+    {
+      "id": "img-longquan",
+      "file": "met-longquan-bottle-vase.jpg",
+      "itemId": "art-song-ceramics",
+      "alt": "A slender bottle vase with a smooth pale blue-green celadon glaze.",
+      "caption": "Bottle vase, Longquan ware, 13th century. Southern Song stoneware with celadon glaze (the rim has old gold-lacquer repairs).",
+      "sourceId": "src-img-longquan",
+      "verified": true
+    },
+    {
+      "id": "img-goryeo",
+      "file": "met-goryeo-maebyeong.jpg",
+      "itemId": "art-celadon",
+      "society": "korea",
+      "alt": "A tall celadon plum bottle (maebyeong) with white and black inlaid cranes and clouds.",
+      "caption": "Maebyeong (plum bottle) with cranes and clouds, second half of the 12th century. Goryeo stoneware with inlaid decoration under celadon glaze.",
+      "sourceId": "src-img-goryeo",
+      "verified": true
+    },
+    {
+      "id": "img-yuan-bw",
+      "file": "met-yuan-blue-white-bottle.jpg",
+      "itemId": "art-blue-white",
+      "alt": "A white porcelain bottle painted in cobalt blue with a peony scroll.",
+      "caption": "Bottle with peony scroll, mid-14th century. Yuan porcelain painted with cobalt blue under a transparent glaze (Jingdezhen ware).",
+      "sourceId": "src-img-yuan-bw",
+      "verified": true
+    },
+    {
+      "id": "img-zhao-mengfu",
+      "file": "met-zhao-mengfu-twin-pines.jpg",
+      "itemId": "art-yuan-literati",
+      "alt": "A sparse ink handscroll with two pines by water and calligraphy at the left.",
+      "caption": "Zhao Mengfu, Twin Pines, Level Distance, ca. 1310. A Yuan handscroll in ink on paper.",
+      "sourceId": "src-img-zhao-mengfu",
+      "verified": true
+    },
+    {
+      "id": "img-tran-ewer",
+      "file": "met-tran-ewer.jpg",
+      "society": "vietnam",
+      "alt": "An ivory-glazed stoneware ewer with a lid, a spout shaped like a sea creature, and brown floral decoration.",
+      "caption": "Ewer with makara spout, ca. 14th century. Tran dynasty stoneware from Vietnam's Hong River region, with iron-underglaze floral decoration and ivory glaze.",
+      "sourceId": "src-img-tran-ewer",
+      "verified": true
+    },
+    {
+      "id": "img-qingming",
+      "file": "commons-qingming-scroll-detail.jpg",
+      "itemId": "econ-commercialization",
+      "alt": "Detail of a crowded painted city scene: an arched wooden bridge packed with people, boats on the river below, and shops along the banks.",
+      "caption": "Along the River During the Qingming Festival (detail of the bridge), attributed to Zhang Zeduan, Northern Song dynasty. Palace Museum, Beijing.",
+      "sourceId": "src-img-qingming",
+      "verified": true
+    },
+    {
+      "id": "img-court-ladies",
+      "file": "commons-court-ladies-silk.jpg",
+      "itemId": "econ-silk",
+      "alt": "A handscroll detail of women stretching and ironing a long bolt of silk.",
+      "caption": "Court Ladies Preparing Newly Woven Silk (detail), Northern Song dynasty, early 12th century, after an earlier composition by Zhang Xuan. Museum of Fine Arts, Boston.",
+      "sourceId": "src-img-court-ladies",
+      "verified": true
+    },
+    {
+      "id": "img-zhuangzi",
+      "file": "commons-zhuangzi-song-edition.jpg",
+      "itemId": "int-printing",
+      "alt": "Two facing pages of a woodblock-printed Chinese book with large and small characters in ruled columns.",
+      "caption": "Opening pages of a volume of the Zhuangzi with commentary, a Song-dynasty printed edition, 13th century. Seikadō Bunko Library, Tokyo.",
+      "sourceId": "src-img-zhuangzi",
+      "verified": true
+    },
+    {
+      "id": "img-song-taizu",
+      "file": "commons-song-taizu-portrait.jpg",
+      "itemId": "pol-song-exams",
+      "alt": "A painted portrait of a seated emperor in a white robe and black official's hat.",
+      "caption": "Seated portrait of Song Taizu (r. 960–976), the first Song emperor, by an anonymous painter, Song dynasty. National Palace Museum, Taipei.",
+      "sourceId": "src-img-song-taizu",
+      "verified": true
+    },
+    {
+      "id": "img-moko",
+      "file": "commons-moko-shurai-ekotoba.jpg",
+      "itemId": "pol-mongol-japan",
+      "society": "japan",
+      "alt": "A Japanese handscroll scene of a mounted samurai charging toward Mongol archers as a bomb bursts overhead.",
+      "caption": "Illustrated Account of the Mongol Invasions (Mōko Shūrai Ekotoba), ca. 1293, commissioned by the samurai Takezaki Suenaga. This scene shows Suenaga fighting Mongol warriors in 1274. Museum of the Imperial Collections, Tokyo.",
+      "sourceId": "src-img-moko",
+      "verified": true
+    },
+    {
+      "id": "img-iron-pagoda",
+      "file": "commons-iron-pagoda-kaifeng.jpg",
+      "itemId": "rel-song-temples",
+      "alt": "A tall, slender brick pagoda with many tiers rising above trees in a park.",
+      "caption": "The Iron Pagoda of Kaifeng, built in 1049 in the Northern Song capital. It is not iron: glazed bricks give it a rust-colored look. Photograph by Gisling, 2011.",
+      "sourceId": "src-img-iron-pagoda",
+      "verified": true
+    },
+    {
+      "id": "img-quanzhou-ship",
+      "file": "commons-quanzhou-ship.jpg",
+      "itemId": "tech-compass",
+      "alt": "The wooden hull of an excavated ship, divided into compartments, displayed in a museum hall.",
+      "caption": "The Quanzhou ship, a Song-era seagoing vessel excavated in the 1970s, preserved at a branch of the Quanzhou Overseas Relations Museum. Its hull is divided into compartments. Photograph by meckleychina, 2006.",
+      "sourceId": "src-img-quanzhou-ship",
+      "verified": true
+    },
+    {
+      "id": "img-paper-money-plate",
+      "file": "commons-song-paper-money-plate.jpg",
+      "itemId": "econ-paper-money",
+      "alt": "A rectangular printing plate carved with rows of coins, text, and a scene, used to print paper money.",
+      "caption": "A Northern Song banknote printing plate, as displayed at the China Printing Museum, Beijing. Photograph by Popolon, 2015.",
+      "sourceId": "src-img-paper-money-plate",
+      "verified": true
+    }
+  ],
+  "practice": {
+    "mcq": [
+      {
+        "id": "q-exams",
+        "stimulus": {
+          "type": "description",
+          "text": "In Song China, hundreds of thousands of young men sat for written examinations on the Confucian classics; those who passed received government posts."
+        },
+        "question": "Which of the following best describes how the Song dynasty staffed its government?",
+        "choices": [
+          "Hereditary nobles automatically inherited all government posts",
+          "Scholar-officials were selected through competitive civil service examinations on the Confucian classics",
+          "Military generals appointed by the Mongol khan",
+          "Buddhist monks trained in monasteries"
+        ],
+        "answer": 1,
+        "explanation": "The Song relied on scholar-officials who passed competitive exams on Confucian texts. Aristocratic lineage still helped, but the exams opened a path to power and helped counter the dominance of military men.",
+        "itemIds": [
+          "pol-song-exams"
+        ]
+      },
+      {
+        "id": "q-yuan-exams",
+        "stimulus": {
+          "type": "description",
+          "text": "After the Mongol conquest of China, many educated Chinese found themselves barred from government service, and the literati were largely ignored by the new rulers."
+        },
+        "question": "How did Mongol rule under the Yuan change China's civil service examinations?",
+        "choices": [
+          "The Yuan made the exams the only path to office",
+          "The Yuan replaced Confucian texts with Buddhist sutras",
+          "The exams were banned until 1315 and afterward were no longer the only path to office",
+          "The Yuan opened the exams to women for the first time"
+        ],
+        "answer": 2,
+        "explanation": "The Mongols relied on their own people and foreign allies. The exams stayed banned until 1315, and even after they resumed they were not the only way to become an official.",
+        "itemIds": [
+          "pol-yuan-exams"
+        ]
+      },
+      {
+        "id": "q-yuan-hierarchy",
+        "stimulus": {
+          "type": "description",
+          "text": "Yuan rulers classified the population of China into four ranked groups for purposes of law and government."
+        },
+        "question": "In the Yuan four-group social hierarchy, which group was at the bottom?",
+        "choices": [
+          "Mongols",
+          "Non-Han peoples from Central and Western Asia",
+          "Northern Chinese",
+          "Southern Chinese"
+        ],
+        "answer": 3,
+        "explanation": "Mongols were at the top, followed by non-Han peoples from Central and Western Asia (many of them Muslim), then northern Chinese. Southern Chinese were at the bottom.",
+        "itemIds": [
+          "soc-yuan-hierarchy"
+        ]
+      },
+      {
+        "id": "q-champa",
+        "stimulus": {
+          "type": "description",
+          "text": "By 1012, a new rice variety from Champa, in what is now Vietnam, had been introduced to the lower Yangzi and Huai river regions."
+        },
+        "question": "Champa rice contributed to Song China's growth primarily because it",
+        "choices": [
+          "was a luxury good exported to Europe",
+          "ripened early and resisted drought, making double-cropping possible",
+          "could only be grown in northern China",
+          "replaced tea as China's main cash crop"
+        ],
+        "answer": 1,
+        "explanation": "Early-ripening, drought-resistant Champa rice allowed two harvests in some areas, increasing food supply and supporting a population of about 100 million by 1100.",
+        "itemIds": [
+          "tech-champa",
+          "econ-commercialization"
+        ]
+      },
+      {
+        "id": "q-japan-invasions",
+        "stimulus": {
+          "type": "description",
+          "text": "In 1274 and again in 1281, Mongol fleets built partly from the captured Song navy sailed for Japan. Neither invasion succeeded."
+        },
+        "question": "Which factor best explains why the Mongol invasions of Japan in 1274 and 1281 failed?",
+        "choices": [
+          "Japan had a larger navy than the Mongols",
+          "The Mongols refused to use ships",
+          "Typhoons (kamikaze) destroyed the invading fleets while the shogunate resisted",
+          "Korea allied with Japan against the Mongols"
+        ],
+        "answer": 2,
+        "explanation": "Typhoons, which the Japanese called kamikaze or “divine wind,” destroyed the Mongol fleets, and the shogunate's forces resisted the landings.",
+        "itemIds": [
+          "pol-mongol-japan"
+        ]
+      },
+      {
+        "id": "q-japan-politics",
+        "stimulus": {
+          "type": "description",
+          "text": "In 1333 one Japanese military regime was toppled; in 1336 Ashikaga Takauji took control. Throughout, the emperor remained on the throne."
+        },
+        "question": "Which statement best describes political power in Japan c. 1200–1450?",
+        "choices": [
+          "A centralized bureaucracy selected by exams held power",
+          "Emperors reigned, but shoguns and the warrior class held real power",
+          "Japan was ruled directly by the Yuan dynasty",
+          "Buddhist monasteries governed the provinces"
+        ],
+        "answer": 1,
+        "explanation": "Japan's military governments (the Kamakura, then the Ashikaga shogunate) held real power, while the emperor remained a titular head of state.",
+        "itemIds": [
+          "pol-japan-shogunate",
+          "soc-japan-warriors"
+        ]
+      },
+      {
+        "id": "q-zen",
+        "stimulus": {
+          "type": "description",
+          "text": "Chan Buddhism, which emphasized rigorous discipline and obedience to a master, spread from China to Japan in the 13th century."
+        },
+        "question": "Zen Buddhism in Japan was especially popular among which group?",
+        "choices": [
+          "Peasant farmers",
+          "The samurai class",
+          "Merchants in Hangzhou",
+          "Mongol administrators"
+        ],
+        "answer": 1,
+        "explanation": "Zen, which came from Chinese Chan Buddhism, emphasized discipline and was enthusiastically received by the samurai class beginning in the 13th century.",
+        "itemIds": [
+          "rel-zen"
+        ]
+      },
+      {
+        "id": "q-korea-adapt",
+        "stimulus": {
+          "type": "description",
+          "text": "In the 1230s, Korean craftsmen cast a font of movable type in metal."
+        },
+        "question": "Which is the best example of Korea adapting, rather than simply copying, a Chinese innovation?",
+        "choices": [
+          "Modeling its government and capital city on China's",
+          "Casting movable type in metal by the 1230s",
+          "Paying tribute to the Tang",
+          "Following Chinese Buddhist teachings"
+        ],
+        "answer": 1,
+        "explanation": "Movable type was a Chinese invention (Bi Sheng used baked clay), but Korea recast it in metal. That is adaptation. The other options are examples of adopting Chinese models.",
+        "itemIds": [
+          "int-korean-type",
+          "pol-korea"
+        ]
+      },
+      {
+        "id": "q-pax",
+        "stimulus": {
+          "type": "description",
+          "text": "Under Mongol rule, postal stations stocked with food, horses, and lodging lined the major trade routes about every 20 miles."
+        },
+        "question": "Which was a major effect of the Pax Mongolica?",
+        "choices": [
+          "The closing of the Silk Roads to foreign merchants",
+          "Safer overland travel that increased trade and exchange across Eurasia",
+          "The end of paper money in China",
+          "The spread of Christianity to Japan"
+        ],
+        "answer": 1,
+        "explanation": "By controlling a huge territory, the Mongols made travel safe for roughly a century and supported merchants, which boosted Silk Road trade and cultural exchange.",
+        "itemIds": [
+          "econ-pax-mongolica",
+          "tech-relay"
+        ]
+      },
+      {
+        "id": "q-yuan-religion",
+        "stimulus": {
+          "type": "description",
+          "text": "Khubilai Khan's close advisor was the Tibetan monk 'Phags-pa, and his government recruited Muslim financial administrators and built mosques."
+        },
+        "question": "Which best describes Yuan religious policy?",
+        "choices": [
+          "Strict enforcement of Confucianism as the only belief system",
+          "General pluralism, including patronage of Tibetan Buddhism and employment of Muslim administrators",
+          "Persecution of all Buddhists",
+          "Conversion of the whole court to Christianity"
+        ],
+        "answer": 1,
+        "explanation": "The Mongols generally tolerated many religions. Khubilai's advisor was the Tibetan monk 'Phags-pa, and Muslims served as financial administrators, though the Yuan did restrict Daoism.",
+        "itemIds": [
+          "rel-yuan"
+        ]
+      },
+      {
+        "id": "q-neo",
+        "stimulus": {
+          "type": "description",
+          "text": "The Southern Song scholar Zhu Xi (1130–1200) wrote commentaries on the Four Books and extolled them as central to the education of scholars."
+        },
+        "question": "Zhu Xi's Neo-Confucianism is best described as",
+        "choices": [
+          "a rejection of Confucian texts in favor of Daoism",
+          "a revival of Confucianism that responded to Buddhist metaphysics and made the Four Books central",
+          "a Mongol legal code",
+          "a Japanese form of Buddhism"
+        ],
+        "answer": 1,
+        "explanation": "Zhu Xi (1130–1200) synthesized Confucian thought, made the Four Books the basis of learning and exams, and his interpretation became orthodox across East Asia.",
+        "itemIds": [
+          "int-neo-confucianism"
+        ]
+      },
+      {
+        "id": "q-literati",
+        "stimulus": {
+          "type": "description",
+          "text": "Zhao Mengfu, who had withdrawn from government service under the Mongols, painted pines in an old style to express his innermost feelings to a friend."
+        },
+        "question": "Yuan literati painting, exemplified by Zhao Mengfu, is best understood as an effect of which development?",
+        "choices": [
+          "The Mongols' exclusion of many educated Chinese from government service",
+          "The arrival of European oil painting",
+          "The Ming restoration of the exams",
+          "Zheng He's voyages"
+        ],
+        "answer": 0,
+        "explanation": "Barred from office, many scholars turned the ideal of the scholar's retreat into an alternative culture, producing the scholar-amateur painting of the Yuan.",
+        "itemIds": [
+          "art-yuan-literati",
+          "pol-yuan-exams"
+        ]
+      },
+      {
+        "id": "q-maritime",
+        "stimulus": {
+          "type": "description",
+          "text": "From Song coastal cities such as Quanzhou, ships carrying Chinese goods sailed as far as Japan and East Africa."
+        },
+        "question": "Which statement about Song China's trade is best supported by the evidence?",
+        "choices": [
+          "Song China had no contact with the Indian Ocean",
+          "Maritime trade for the first time exceeded overland foreign trade",
+          "China imported most of its porcelain from Persia",
+          "Trade was limited to the Grand Canal"
+        ],
+        "answer": 1,
+        "explanation": "From ports like Quanzhou, Song ships carried silk and porcelain from Japan to East Africa; maritime trade overtook overland trade.",
+        "itemIds": [
+          "econ-indian-ocean"
+        ]
+      },
+      {
+        "id": "q-women",
+        "stimulus": {
+          "type": "description",
+          "text": "Song Confucian teachers argued against widows remarrying, yet women's rights to property were relatively secure and older women were often very powerful within their families."
+        },
+        "question": "Which best describes the status of women in Song China?",
+        "choices": [
+          "Women could take the civil service exams",
+          "Women had relatively secure property rights and did vital textile work, but foot binding began and exams were closed to them",
+          "Women had no role in the economy",
+          "Women held most government offices"
+        ],
+        "answer": 1,
+        "explanation": "Song women had relatively secure property rights and did much of the silk work, yet foot binding began in this era and exams were closed to women. This reflects Confucian respect for women combined with expected deference.",
+        "itemIds": [
+          "soc-women",
+          "soc-foot-binding"
+        ]
+      },
+      {
+        "id": "q-grand-canal",
+        "stimulus": {
+          "type": "description",
+          "text": "The Yuan's public works included the extension of the Grand Canal to Daidu (present-day Beijing), which later strained Yuan finances."
+        },
+        "question": "Why was the Yuan extension of the Grand Canal to Dadu (Beijing) significant?",
+        "choices": [
+          "It connected the new northern capital to the productive south",
+          "It linked China directly to Persia",
+          "It replaced all maritime trade",
+          "It was built to defend against Japan"
+        ],
+        "answer": 0,
+        "explanation": "The Yuan moved the capital north to Dadu; extending the canal tied that political center to the south, though these costly public works strained Yuan finances.",
+        "itemIds": [
+          "tech-grand-canal"
+        ]
+      },
+      {
+        "id": "q-ming",
+        "stimulus": {
+          "type": "description",
+          "text": "In 1368, Zhu Yuanzhang, reigning as Emperor Hongwu, razed the Yuan palaces at Beijing."
+        },
+        "question": "The founding of the Ming dynasty in 1368 is best described as",
+        "choices": [
+          "a continuation of Mongol rule",
+          "the restoration of native Chinese rule after the Yuan collapsed",
+          "a Japanese conquest of China",
+          "the start of the Song dynasty"
+        ],
+        "answer": 1,
+        "explanation": "Zhu Yuanzhang (Emperor Hongwu) drove out the Yuan after drought, disease, and rebellion, razed the Yuan palaces at Beijing, and reestablished Chinese control.",
+        "itemIds": [
+          "pol-ming"
+        ]
+      },
+      {
+        "id": "q-ccot",
+        "stimulus": {
+          "type": "description",
+          "text": "Zhu Xi's synthesis of Confucian philosophy was accepted as the orthodox interpretation of Confucianism in the later Ming and Qing dynasties."
+        },
+        "question": "Which is the best example of CONTINUITY in China from the Song through the Ming?",
+        "choices": [
+          "Mongol ethnic hierarchy",
+          "The ban on civil service exams",
+          "The influence of Zhu Xi's Neo-Confucianism",
+          "Khubilai Khan's rule"
+        ],
+        "answer": 2,
+        "explanation": "Neo-Confucianism, developed in the Song, survived the Yuan and became orthodox under the Ming. The other options were specific to the Yuan.",
+        "itemIds": [
+          "int-neo-confucianism",
+          "pol-ming"
+        ]
+      },
+      {
+        "id": "q-noh",
+        "stimulus": {
+          "type": "description",
+          "text": "The shogun Ashikaga Yoshimitsu supported the work of Kan'ami (1333–1384) and his son Zeami."
+        },
+        "question": "Noh theater is an example of",
+        "choices": [
+          "a Chinese art form copied unchanged in Japan",
+          "a distinctly Japanese art form supported by the Ashikaga shoguns",
+          "Mongol court entertainment",
+          "Korean Buddhist ritual"
+        ],
+        "answer": 1,
+        "explanation": "Noh has been performed in Japan since the 14th century; the shogun Ashikaga Yoshimitsu supported Kan'ami and Zeami.",
+        "itemIds": [
+          "art-noh"
+        ]
+      },
+      {
+        "id": "q-ced-commercial",
+        "stimulus": {
+          "type": "quote",
+          "text": "The economy of Song China became increasingly commercialized while continuing to depend on free peasant and artisanal labor.",
+          "attribution": "College Board, AP World History CED, KC-3.3.III.A.i",
+          "sourceIds": [
+            "ced"
+          ]
+        },
+        "question": "Which of the following developments best supports the statement above?",
+        "choices": [
+          "Farmers specialized in commercial crops such as sugar, cotton, and tea for sale in markets",
+          "The Song government banned merchants from cities",
+          "Song China relied mainly on enslaved labor on large plantations",
+          "Trade was confined to specific sites and hours in each city"
+        ],
+        "answer": 0,
+        "explanation": "Song farmers sold surpluses and specialized in cash crops, which shows commercialization built on free peasant labor. The Tang market restrictions were what broke down in the Song.",
+        "itemIds": [
+          "econ-markets-guilds",
+          "econ-commercialization"
+        ]
+      },
+      {
+        "id": "q-hymes-markets",
+        "stimulus": {
+          "type": "quote",
+          "text": "The older Tang market system, which had strictly confined trade to cities and within cities to specific sites and hours, utterly broke down as urban commerce spread throughout cities and into extramural mercantile quarters.",
+          "attribution": "Historian Robert Hymes, quoted in Asia for Educators, “Song Dynasty China”",
+          "sourceIds": [
+            "afe-song"
+          ],
+          "locators": {
+            "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-commercial.html"
+          }
+        },
+        "question": "The change described in the passage most directly resulted from",
+        "choices": [
+          "the Mongol conquest of China",
+          "the commercialization of the Song economy",
+          "the spread of Zen Buddhism",
+          "Zheng He's voyages"
+        ],
+        "answer": 1,
+        "explanation": "As the Song economy commercialized, trade spilled out of official markets into whole cities and the countryside, breaking the older Tang controls.",
+        "itemIds": [
+          "econ-markets-guilds"
+        ]
+      },
+      {
+        "id": "q-shen-gua",
+        "stimulus": {
+          "type": "quote",
+          "text": "I have myself given much study to its periodic motion, and found that the tide comes to high water whenever the moon makes its meridian transit.",
+          "attribution": "Shen Gua, Dream Pool Essays (11th century), translated in Joseph Needham, quoted in Asia for Educators, “Song Dynasty China”",
+          "sourceIds": [
+            "afe-song"
+          ],
+          "locators": {
+            "afe-song": "section “Technological Advances during the Song,” https://afe.easia.columbia.edu/songdynasty-module/tech-experiment.html"
+          }
+        },
+        "question": "The passage best illustrates which feature of Song China?",
+        "choices": [
+          "Rejection of all learning outside the Confucian classics",
+          "Educated officials' interest in observing and explaining the natural world",
+          "The influence of Islamic astronomers at the Song court",
+          "The decline of literacy among the elite"
+        ],
+        "answer": 1,
+        "explanation": "Shen Gua, a Song official and polymath, based his theory of tides on his own observation. Many educated Song men took an interest in engineering and the physical world.",
+        "itemIds": [
+          "int-song-science"
+        ]
+      },
+      {
+        "id": "q-shanyuan",
+        "stimulus": {
+          "type": "quote",
+          "text": "As a result of the Treaty of Shanyuan in 1005, the Liao received an annual payment of a hundred thousand taels of silver and two hundred thousand bolts of silk from Song China.",
+          "attribution": "Asia Society, quoted in Asia for Educators, “Song Dynasty China”",
+          "sourceIds": [
+            "afe-song"
+          ],
+          "locators": {
+            "afe-song": "section “Song Engagement with the Outside World,” https://afe.easia.columbia.edu/songdynasty-module/outside-rivals.html"
+          }
+        },
+        "question": "The payments described best reflect which of the following?",
+        "choices": [
+          "Song military dominance over its northern neighbors",
+          "The Song's strategy of buying peace from militarily stronger northern states",
+          "The Liao dynasty's payment of tribute to China",
+          "The collapse of the Song silk industry"
+        ],
+        "answer": 1,
+        "explanation": "The Song was the region's economic powerhouse but not militarily dominant. From 1004 it paid northern states not to invade, which reverses the usual direction of tribute.",
+        "itemIds": [
+          "pol-tribute",
+          "pol-song-rivals"
+        ]
+      },
+      {
+        "id": "q-exam-fairness",
+        "stimulus": {
+          "type": "description",
+          "text": "To increase confidence in the examiners, the Song government replaced candidates' names with numbers and had clerks recopy each exam so the handwriting could not be recognized."
+        },
+        "question": "These measures were intended mainly to",
+        "choices": [
+          "keep women from taking the exams",
+          "make the civil service exams fairer and more merit-based",
+          "reduce the number of Confucian texts candidates studied",
+          "allow Mongol officials to grade the exams"
+        ],
+        "answer": 1,
+        "explanation": "Anonymous, recopied exams kept examiners from favoring people they knew, reinforcing the idea that office went to those with merit in Confucian learning.",
+        "itemIds": [
+          "int-exam-culture",
+          "pol-song-exams"
+        ]
+      },
+      {
+        "id": "q-exam-growth",
+        "stimulus": {
+          "type": "description",
+          "text": "Over the Song dynasty, the number of exam candidates rose from fewer than 30,000 to about 400,000, while the number of government posts stayed the same."
+        },
+        "question": "Which was the most likely effect of this trend?",
+        "choices": [
+          "Most candidates passed on their first try",
+          "Chances of passing fell sharply, and most men who studied never became officials",
+          "The government abolished the exams",
+          "Merchants replaced scholars as the top social class"
+        ],
+        "answer": 1,
+        "explanation": "With more candidates and the same number of posts, pass rates fell as low as one in 333 in some prefectures, and most who prepared never held office.",
+        "itemIds": [
+          "int-exam-culture",
+          "soc-scholar-gentry"
+        ]
+      },
+      {
+        "id": "q-polo-hangzhou",
+        "stimulus": {
+          "type": "quote",
+          "text": "the city is beyond dispute the finest and the noblest in the world.",
+          "attribution": "Marco Polo on Hangzhou, quoted in Asia for Educators, “Song Dynasty China”",
+          "sourceIds": [
+            "afe-song"
+          ],
+          "locators": {
+            "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-hangzhou.html"
+          }
+        },
+        "question": "Marco Polo's description of Hangzhou is best understood in the context of",
+        "choices": [
+          "the decline of Chinese cities after the Mongol conquest",
+          "the growth of large commercial cities during the Song",
+          "Japan's influence on Chinese architecture",
+          "the Ming ban on foreign trade"
+        ],
+        "answer": 1,
+        "explanation": "Hangzhou, the Southern Song capital at the southern end of the Grand Canal, grew into perhaps the world's largest city as the Song economy commercialized.",
+        "itemIds": [
+          "econ-commercialization",
+          "soc-urban-life"
+        ]
+      },
+      {
+        "id": "q-ceramics-export",
+        "stimulus": {
+          "type": "description",
+          "text": "Some Song kilns could produce as many as 20,000 objects a day, and shards of Song porcelain have been found all over Asia."
+        },
+        "question": "This evidence best supports which claim?",
+        "choices": [
+          "Song ceramics were made only for the imperial court",
+          "Song China was a major exporter of manufactured goods",
+          "Porcelain production began under the Ming",
+          "China imported most of its ceramics"
+        ],
+        "answer": 1,
+        "explanation": "Large-scale kilns and porcelain found across Asia show that Song China manufactured ceramics for export. Porcelain for export was a key Song product.",
+        "itemIds": [
+          "art-song-ceramics"
+        ]
+      },
+      {
+        "id": "q-silk-labor",
+        "stimulus": {
+          "type": "description",
+          "text": "In Song China, feeding silkworms, reeling cocoons, and weaving plain cloth on home looms was women's work, while professional weavers in workshops made brocades for the elite."
+        },
+        "question": "The description best illustrates which of the following?",
+        "choices": [
+          "Women's central role in Song household production",
+          "The exclusion of women from all economic activity",
+          "The Mongol takeover of silk production",
+          "The replacement of silk by cotton in Song trade"
+        ],
+        "answer": 0,
+        "explanation": "Much silk was produced at home by women, which shows that household labor sustained a key Song export even as Confucian norms limited women's public roles.",
+        "itemIds": [
+          "econ-silk",
+          "soc-women"
+        ]
+      },
+      {
+        "id": "q-filial",
+        "stimulus": {
+          "type": "quote",
+          "text": "beginning humbly at home, filial piety not only ensures success in a man’s life but also brings peace and harmony to the world at large.",
+          "attribution": "The Metropolitan Museum of Art on the Classic of Filial Piety, quoted in Asia for Educators, “Song Dynasty China”",
+          "sourceIds": [
+            "afe-song"
+          ],
+          "locators": {
+            "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html"
+          }
+        },
+        "question": "The passage best reflects which Confucian belief?",
+        "choices": [
+          "Family duties are the foundation of a well-ordered society and state",
+          "Individuals should withdraw from society to seek enlightenment",
+          "Merchants are the most virtuous social class",
+          "Women should hold government office"
+        ],
+        "answer": 0,
+        "explanation": "Confucianism treated the family as the basic unit of society; respect for parents and ancestors was believed to create harmony in the state.",
+        "itemIds": [
+          "soc-confucian-hierarchy"
+        ]
+      },
+      {
+        "id": "q-rivals",
+        "stimulus": {
+          "type": "description",
+          "text": "During the Song, three horse-riding northern peoples (the Khitan, the Jurchen, and the Mongols) each formed states that took over land inhabited mainly by Chinese."
+        },
+        "question": "Which factor best explains these peoples' success against the Song?",
+        "choices": [
+          "The Song had a smaller population",
+          "In an age when the horse was a major weapon, the northern grasslands gave a military advantage",
+          "The Song had no iron production",
+          "The Song refused to use gunpowder"
+        ],
+        "answer": 1,
+        "explanation": "The grasslands north of China offered a greater military advantage than China's industrial strength, because horse-riding armies were very hard to defeat in open battle.",
+        "itemIds": [
+          "pol-song-rivals",
+          "pol-song-fall"
+        ]
+      },
+      {
+        "id": "q-foreign-faiths",
+        "stimulus": {
+          "type": "description",
+          "text": "In 1163 a synagogue was built in Kaifeng to serve merchants active in the caravan trade from Persia."
+        },
+        "question": "This development is best understood as an example of",
+        "choices": [
+          "religious persecution in Song China",
+          "cultural exchange along trade networks",
+          "the spread of Neo-Confucianism to Persia",
+          "Mongol religious policy"
+        ],
+        "answer": 1,
+        "explanation": "Merchants traveling the caravan routes brought their faiths with them, making Song trade cities religiously diverse.",
+        "itemIds": [
+          "rel-foreign-faiths"
+        ]
+      }
+    ],
+    "saq": [
+      {
+        "id": "saq-economy",
+        "title": "The Song economic revolution",
+        "stimulus": {
+          "type": "quote",
+          "text": "The economy of Song China flourished as a result of increased productive capacity, expanding trade networks, and innovations in agriculture and manufacturing.",
+          "attribution": "College Board, AP World History CED, KC-3.1.I.D",
+          "sourceIds": [
+            "ced"
+          ]
+        },
+        "parts": [
+          {
+            "label": "a",
+            "prompt": "Identify ONE agricultural innovation that increased productive capacity in Song China.",
+            "points": [
+              "Champa rice: early-ripening and drought-resistant, it allowed double-cropping in some areas.",
+              "Specializing in commercial crops (sugar, cotton, tea) for sale in markets."
+            ],
+            "itemIds": [
+              "tech-champa",
+              "econ-markets-guilds"
+            ]
+          },
+          {
+            "label": "b",
+            "prompt": "Explain ONE way commercialization changed Song cities.",
+            "points": [
+              "Trade broke out of the Tang system of fixed market sites and hours and spread through whole cities.",
+              "Cities grew huge: Kaifeng and Hangzhou had about a million people each, and the capitals had no walled wards.",
+              "Merchants organized guilds, partnerships, and joint stock companies."
+            ],
+            "itemIds": [
+              "econ-markets-guilds",
+              "econ-commercialization",
+              "soc-urban-life"
+            ]
+          },
+          {
+            "label": "c",
+            "prompt": "Explain ONE way Song innovations connected China to wider trade networks.",
+            "points": [
+              "Compass navigation and ocean-going junks with watertight bulkheads made long voyages possible.",
+              "Porcelain and silk were exported; ships from Quanzhou reached Japan and East Africa.",
+              "Maritime trade for the first time exceeded overland foreign trade."
+            ],
+            "itemIds": [
+              "tech-compass",
+              "art-song-ceramics",
+              "econ-indian-ocean"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "saq-government",
+        "title": "Confucianism and Song government",
+        "stimulus": {
+          "type": "quote",
+          "text": "This included the Song Dynasty of China, which utilized traditional methods of Confucianism and an imperial bureaucracy to maintain and justify its rule.",
+          "attribution": "College Board, AP World History CED, KC-3.2.I.A",
+          "sourceIds": [
+            "ced"
+          ]
+        },
+        "parts": [
+          {
+            "label": "a",
+            "prompt": "Identify ONE feature of the Song civil service examination system.",
+            "points": [
+              "Exams tested command of the Confucian classics (and even poetry in set forms).",
+              "Names were replaced with numbers and exams recopied to ensure fairness.",
+              "Candidates rose from fewer than 30,000 to about 400,000."
+            ],
+            "itemIds": [
+              "pol-song-exams",
+              "int-exam-culture"
+            ]
+          },
+          {
+            "label": "b",
+            "prompt": "Explain ONE way Confucianism helped the Song maintain or justify its rule.",
+            "points": [
+              "Scholar-officials trained in Confucian values staffed the bureaucracy.",
+              "Exams drew literary men into government to counter the dominance of military men.",
+              "Confucian teaching stressed hierarchies such as ruler/subject and father/son."
+            ],
+            "itemIds": [
+              "pol-song-exams",
+              "soc-confucian-hierarchy"
+            ]
+          },
+          {
+            "label": "c",
+            "prompt": "Explain ONE continuity OR change in Confucian government after the Song.",
+            "points": [
+              "Change: under the Yuan the exams were banned until 1315 and were no longer the only path to office.",
+              "Continuity: Zhu Xi's Neo-Confucianism was accepted as orthodox in the Ming."
+            ],
+            "itemIds": [
+              "pol-yuan-exams",
+              "pol-ming",
+              "int-neo-confucianism"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "saq-diffusion",
+        "title": "Chinese influence and local adaptation",
+        "stimulus": {
+          "type": "quote",
+          "text": "Chinese cultural traditions continued, and they influenced neighboring regions.",
+          "attribution": "College Board, AP World History CED, KC-3.1.III.D.i",
+          "sourceIds": [
+            "ced"
+          ]
+        },
+        "parts": [
+          {
+            "label": "a",
+            "prompt": "Identify ONE Chinese cultural tradition adopted in Japan, Korea, or Vietnam.",
+            "points": [
+              "Chan Buddhism became Zen in Japan.",
+              "Goryeo Korea modeled its government and capital on China's.",
+              "Confucian political ideas were adapted in Japan, Korea, and Vietnam."
+            ],
+            "itemIds": [
+              "rel-zen",
+              "pol-korea",
+              "int-neo-confucianism"
+            ]
+          },
+          {
+            "label": "b",
+            "prompt": "Explain ONE way a neighboring society adapted a Chinese tradition to local conditions.",
+            "points": [
+              "Korea recast movable type in metal (1230s).",
+              "Goryeo potters created inlaid sanggam celadon, a rarity in China.",
+              "Japan kept power with shoguns and samurai rather than exam-selected officials."
+            ],
+            "itemIds": [
+              "int-korean-type",
+              "art-celadon",
+              "pol-japan-shogunate"
+            ]
+          },
+          {
+            "label": "c",
+            "prompt": "Explain ONE way that influence also flowed INTO China from its neighbors.",
+            "points": [
+              "Champa rice came to China from Champa, in present-day Vietnam, and transformed Song agriculture."
+            ],
+            "itemIds": [
+              "tech-champa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "saq-women",
+        "title": "Women in Song society",
+        "stimulus": {
+          "type": "quote",
+          "text": "Confucian traditions of both respect for and expected deference from women",
+          "attribution": "College Board, AP World History CED, illustrative example for Topic 1.1",
+          "sourceIds": [
+            "ced"
+          ]
+        },
+        "parts": [
+          {
+            "label": "a",
+            "prompt": "Identify ONE way Confucian ideas limited women's lives in Song China.",
+            "points": [
+              "Song Confucian teachers argued against widows remarrying.",
+              "Women were excluded from the civil service exams.",
+              "Foot binding began in Song times."
+            ],
+            "itemIds": [
+              "soc-women",
+              "soc-foot-binding"
+            ]
+          },
+          {
+            "label": "b",
+            "prompt": "Explain ONE way women contributed to the Song economy.",
+            "points": [
+              "Raising silkworms, spinning, and weaving silk at home was women's work, and silk was a key export."
+            ],
+            "itemIds": [
+              "econ-silk",
+              "soc-women"
+            ]
+          },
+          {
+            "label": "c",
+            "prompt": "Explain ONE way Song women's status was more secure than the stereotype suggests.",
+            "points": [
+              "Women's property rights were relatively secure in Song times.",
+              "Older women were often very powerful within their families."
+            ],
+            "itemIds": [
+              "soc-women"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "saq-northern",
+        "title": "The Song and its northern rivals",
+        "parts": [
+          {
+            "label": "a",
+            "prompt": "Identify ONE northern state that took territory from the Song.",
+            "points": [
+              "The Khitan Liao.",
+              "The Jurchen Jin, which took North China and Kaifeng.",
+              "The Mongols, who conquered the Southern Song by 1279."
+            ],
+            "itemIds": [
+              "pol-song-rivals",
+              "pol-song-fall"
+            ]
+          },
+          {
+            "label": "b",
+            "prompt": "Explain ONE reason the Song struggled militarily despite its wealth.",
+            "points": [
+              "Horse-riding northern armies were very hard to defeat in open battle; the grasslands gave a military advantage greater than China's industrial power."
+            ],
+            "itemIds": [
+              "pol-song-rivals"
+            ]
+          },
+          {
+            "label": "c",
+            "prompt": "Explain ONE effect of the Mongol conquest on Chinese scholars.",
+            "points": [
+              "Many educated Chinese were barred from office, and exams were banned until 1315.",
+              "Excluded scholars built an alternative culture of literati painting (e.g., Zhao Mengfu)."
+            ],
+            "itemIds": [
+              "pol-yuan-exams",
+              "art-yuan-literati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "saq-technology",
+        "title": "Song technology on the move",
+        "parts": [
+          {
+            "label": "a",
+            "prompt": "Identify ONE Song technological innovation.",
+            "points": [
+              "Compass navigation (first recorded 1119).",
+              "Gunpowder weapons (the first formula recorded in 1044).",
+              "Su Song's mechanical clock tower.",
+              "Large-scale iron production using coal."
+            ],
+            "itemIds": [
+              "tech-compass",
+              "tech-gunpowder",
+              "tech-su-song",
+              "tech-iron"
+            ]
+          },
+          {
+            "label": "b",
+            "prompt": "Explain ONE way a Song innovation affected trade.",
+            "points": [
+              "The compass and bulkheaded ships made sea voyages to India and the Red Sea possible, and maritime trade overtook overland trade."
+            ],
+            "itemIds": [
+              "tech-compass",
+              "econ-indian-ocean"
+            ]
+          },
+          {
+            "label": "c",
+            "prompt": "Explain ONE way a Song innovation spread beyond China.",
+            "points": [
+              "The Mongols acquired gunpowder weapons by capturing Chinese engineers; gunpowder later reached Europe via Arab traders.",
+              "Korea adapted movable type in metal."
+            ],
+            "itemIds": [
+              "tech-gunpowder",
+              "int-korean-type"
+            ]
+          }
+        ]
+      }
+    ],
+    "ccot": [
+      {
+        "id": "cc-exams-yuan",
+        "text": "Under the Yuan, the civil service exams were banned until 1315.",
+        "answer": "change",
+        "explanation": "A break from the Song, when exams were the normal ladder to office.",
+        "itemIds": [
+          "pol-yuan-exams"
+        ]
+      },
+      {
+        "id": "cc-zhuxi-ming",
+        "text": "Zhu Xi's interpretation of Confucianism was accepted as orthodox under the Ming.",
+        "answer": "continuity",
+        "explanation": "Song Neo-Confucianism outlasted Mongol rule and remained dominant.",
+        "itemIds": [
+          "int-neo-confucianism",
+          "pol-ming"
+        ]
+      },
+      {
+        "id": "cc-filial",
+        "text": "Filial piety remained central to East Asian family life.",
+        "answer": "continuity",
+        "explanation": "The Confucian family ideal persisted across dynasties and spread to neighboring societies.",
+        "itemIds": [
+          "soc-confucian-hierarchy"
+        ]
+      },
+      {
+        "id": "cc-capital-south",
+        "text": "After 1127, the Song court ruled from Hangzhou instead of Kaifeng.",
+        "answer": "change",
+        "explanation": "The Jurchen conquest of the north forced the capital south.",
+        "itemIds": [
+          "pol-song-rivals"
+        ]
+      },
+      {
+        "id": "cc-yuan-ranks",
+        "text": "The Yuan ranked the population into four ethnic groups with southern Chinese at the bottom.",
+        "answer": "change",
+        "explanation": "This replaced the Song order headed by Confucian scholar-officials.",
+        "itemIds": [
+          "soc-yuan-hierarchy"
+        ]
+      },
+      {
+        "id": "cc-ming-rule",
+        "text": "In 1368 the Ming restored native Chinese rule.",
+        "answer": "change",
+        "explanation": "A political change from Mongol rule, though it revived older Chinese traditions.",
+        "itemIds": [
+          "pol-ming"
+        ]
+      },
+      {
+        "id": "cc-paper-money",
+        "text": "Paper money remained in use from the Song into the Yuan.",
+        "answer": "continuity",
+        "explanation": "The Yuan increased the paper money in circulation, continuing a Song innovation.",
+        "itemIds": [
+          "econ-paper-money"
+        ]
+      },
+      {
+        "id": "cc-maritime",
+        "text": "Under the Song, maritime trade for the first time exceeded overland foreign trade.",
+        "answer": "change",
+        "explanation": "A shift in how China connected to the wider world.",
+        "itemIds": [
+          "econ-indian-ocean"
+        ]
+      },
+      {
+        "id": "cc-landscape-ming",
+        "text": "Ming court artists revived the Song image of the state as a well-ordered garden.",
+        "answer": "continuity",
+        "explanation": "Song landscape ideals carried into Ming painting.",
+        "itemIds": [
+          "art-song-landscape"
+        ]
+      },
+      {
+        "id": "cc-markets",
+        "text": "The Tang system confining trade to fixed sites and hours broke down in the Song.",
+        "answer": "change",
+        "explanation": "Commercialization transformed where and when people could trade.",
+        "itemIds": [
+          "econ-markets-guilds"
+        ]
+      },
+      {
+        "id": "cc-buddhism",
+        "text": "Buddhism flourished in Song China alongside Daoism and Confucianism.",
+        "answer": "continuity",
+        "explanation": "Buddhism had flourished since the Tang and remained central in Song life.",
+        "itemIds": [
+          "rel-china-buddhism-daoism"
+        ]
+      },
+      {
+        "id": "cc-scholar-art",
+        "text": "Yuan literati painters followed the Song ideal of the scholar-artist.",
+        "answer": "continuity",
+        "explanation": "The Song ideal of the scholar's retreat grew into Yuan literati culture.",
+        "itemIds": [
+          "art-yuan-literati",
+          "art-scholar-arts"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "slides",
+      "group": "Course materials",
+      "bibliography": "Ferreira, JP. “1.1: Developments in East Asia (1200–1450).” Lecture slides, AP World History, Saddle River Day School, n.d.",
+      "note": "JP Ferreira, “1.1: Developments in East Asia (1200–1450)” (lecture slides, AP World History, Saddle River Day School, n.d.), {loc}",
+      "shortNote": "Ferreira, “Developments in East Asia,” {loc}",
+      "defaultLoc": "slide [N]"
+    },
+    {
+      "id": "ced",
+      "group": "Course materials",
+      "bibliography": "College Board. *AP World History: Modern Course and Exam Description*. Effective Fall 2026. College Board, 2026. https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf.",
+      "note": "College Board, *AP World History: Modern Course and Exam Description*, effective fall 2026 (College Board, 2026), {loc}",
+      "shortNote": "College Board, *AP World History: Modern CED*, {loc}",
+      "defaultLoc": "38–39"
+    },
+    {
+      "id": "oer-eastasia",
+      "group": "OER Project",
+      "bibliography": "Wiesner-Hanks, Merry. “East Asia 1200–1450: China, Korea & Japan.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. Accessed September 26, 2026. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/East-Asia-1200-1450.",
+      "note": "Merry Wiesner-Hanks, “East Asia 1200–1450: China, Korea & Japan,” *World History AP*, Unit 1, OER Project, accessed September 26, 2026, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/East-Asia-1200-1450",
+      "shortNote": "Wiesner-Hanks, “East Asia 1200–1450”"
+    },
+    {
+      "id": "oer-ssea",
+      "group": "OER Project",
+      "bibliography": "Wiesner-Hanks, Merry. “South & Southeast Asia 1200–1450.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. Accessed September 26, 2026. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/South-and-Southeast-Asia-1200-1450.",
+      "note": "Merry Wiesner-Hanks, “South & Southeast Asia 1200–1450,” *World History AP*, Unit 1, OER Project, accessed September 26, 2026, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/South-and-Southeast-Asia-1200-1450",
+      "shortNote": "Wiesner-Hanks, “South & Southeast Asia”"
+    },
+    {
+      "id": "oer-state-religion",
+      "group": "OER Project",
+      "bibliography": "Getz, Trevor. “State and Religion in Afro-Eurasia, c.1200–1450.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. Accessed September 26, 2026. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/State-and-Religion-in-Afro-Eurasia-c-1200-1450.",
+      "note": "Trevor Getz, “State and Religion in Afro-Eurasia, c.1200–1450,” *World History AP*, Unit 1, OER Project, accessed September 26, 2026, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/State-and-Religion-in-Afro-Eurasia-c-1200-1450",
+      "shortNote": "Getz, “State and Religion”"
+    },
+    {
+      "id": "oer-confucianism",
+      "group": "OER Project",
+      "bibliography": "Elshaikh, Eman M. “Confucianism: Beliefs & Government.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. Accessed September 26, 2026. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Confucianism.",
+      "note": "Eman M. Elshaikh, “Confucianism: Beliefs & Government,” *World History AP*, Unit 1, OER Project, accessed September 26, 2026, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Confucianism",
+      "shortNote": "Elshaikh, “Confucianism”"
+    },
+    {
+      "id": "oer-buddhism",
+      "group": "OER Project",
+      "bibliography": "Elshaikh, Eman M. “Buddhism: Origins, Beliefs & Spread.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. Accessed September 26, 2026. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Buddhism.",
+      "note": "Eman M. Elshaikh, “Buddhism: Origins, Beliefs & Spread,” *World History AP*, Unit 1, OER Project, accessed September 26, 2026, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Buddhism",
+      "shortNote": "Elshaikh, “Buddhism”"
+    },
+    {
+      "id": "oer-why",
+      "group": "OER Project",
+      "bibliography": "O'Connor, Bridgette Byrd. “Why Do Belief Systems Spread? How China Made Buddhism Its Own.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. Accessed September 26, 2026. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Why-Do-Belief-Systems-Spread.",
+      "note": "Bridgette Byrd O'Connor, “Why Do Belief Systems Spread? How China Made Buddhism Its Own,” *World History AP*, Unit 1, OER Project, accessed September 26, 2026, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Why-Do-Belief-Systems-Spread",
+      "shortNote": "O'Connor, “Why Do Belief Systems Spread?”"
+    },
+    {
+      "id": "oer-silk",
+      "group": "OER Project",
+      "bibliography": "“Silk and the State in Song Dynasty China.” Hosted by Francesca Hodges, with Xiaolin Duan. Video. *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. Accessed September 26, 2026. https://www.oerproject.com/OER-Materials/OER-Media/Videos/WHP-AP/Unit1/Silk-and-the-Song-Dynasty.",
+      "note": "“Silk and the State in Song Dynasty China,” hosted by Francesca Hodges, with Xiaolin Duan, video, *World History AP*, Unit 1, OER Project, accessed September 26, 2026, https://www.oerproject.com/OER-Materials/OER-Media/Videos/WHP-AP/Unit1/Silk-and-the-Song-Dynasty",
+      "shortNote": "“Silk and the State in Song Dynasty China”"
+    },
+    {
+      "id": "afe-song",
+      "group": "Asia for Educators",
+      "bibliography": "Asia for Educators. “Song Dynasty China.” Columbia University. Accessed [ACCESSED]. https://afe.easia.columbia.edu/songdynasty-module/.",
+      "note": "Asia for Educators, “Song Dynasty China,” Columbia University, accessed [ACCESSED], {loc}",
+      "shortNote": "Asia for Educators, “Song Dynasty China,” {loc}",
+      "defaultLoc": "https://afe.easia.columbia.edu/songdynasty-module/"
+    },
+    {
+      "id": "afe-mongols",
+      "group": "Asia for Educators",
+      "bibliography": "Asia for Educators. “The Mongols in World History.” Columbia University. Accessed [ACCESSED]. https://afe.easia.columbia.edu/mongols/.",
+      "note": "Asia for Educators, “The Mongols in World History,” Columbia University, accessed [ACCESSED], {loc}",
+      "shortNote": "Asia for Educators, “Mongols in World History,” {loc}",
+      "defaultLoc": "https://afe.easia.columbia.edu/mongols/"
+    },
+    {
+      "id": "met-chronology",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "“China, 1000–1400 A.D.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2001. Accessed [ACCESSED]. https://www.metmuseum.org/toah/ht/07/eac.html.",
+      "note": "“China, 1000–1400 A.D.,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2001, accessed [ACCESSED], https://www.metmuseum.org/toah/ht/07/eac.html",
+      "shortNote": "“China, 1000–1400 A.D.”"
+    },
+    {
+      "id": "met-landscape",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Department of Asian Art. “Landscape Painting in Chinese Art.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2004. Accessed [ACCESSED]. https://www.metmuseum.org/essays/landscape-painting-in-chinese-art.",
+      "note": "Department of Asian Art, “Landscape Painting in Chinese Art,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2004, accessed [ACCESSED], https://www.metmuseum.org/essays/landscape-painting-in-chinese-art",
+      "shortNote": "Department of Asian Art, “Landscape Painting”"
+    },
+    {
+      "id": "met-chinese-painting",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Hearn, Maxwell K. “Chinese Painting.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. June 2008. Accessed [ACCESSED]. https://www.metmuseum.org/essays/chinese-painting.",
+      "note": "Maxwell K. Hearn, “Chinese Painting,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), June 2008, accessed [ACCESSED], https://www.metmuseum.org/essays/chinese-painting",
+      "shortNote": "Hearn, “Chinese Painting”"
+    },
+    {
+      "id": "met-yuan",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Department of Asian Art. “Yuan Dynasty (1271–1368).” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2001. Accessed [ACCESSED]. https://www.metmuseum.org/essays/yuan-dynasty-1271-1368.",
+      "note": "Department of Asian Art, “Yuan Dynasty (1271–1368),” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2001, accessed [ACCESSED], https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+      "shortNote": "Department of Asian Art, “Yuan Dynasty”"
+    },
+    {
+      "id": "met-goryeo",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Lee, Soyoung. “Goryeo Celadon.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2003. Accessed [ACCESSED]. https://www.metmuseum.org/essays/goryeo-celadon.",
+      "note": "Soyoung Lee, “Goryeo Celadon,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2003, accessed [ACCESSED], https://www.metmuseum.org/essays/goryeo-celadon",
+      "shortNote": "Lee, “Goryeo Celadon”"
+    },
+    {
+      "id": "met-noh",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Denney, Joyce. “Nō Costume.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. December 2008. Accessed [ACCESSED]. https://www.metmuseum.org/essays/noh-costume.",
+      "note": "Joyce Denney, “Nō Costume,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), December 2008, accessed [ACCESSED], https://www.metmuseum.org/essays/noh-costume",
+      "shortNote": "Denney, “Nō Costume”"
+    },
+    {
+      "id": "met-kamakura",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Department of Asian Art. “Kamakura and Nanbokucho Periods (1185–1392).” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. Accessed [ACCESSED]. https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392.",
+      "note": "Department of Asian Art, “Kamakura and Nanbokucho Periods (1185–1392),” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, accessed [ACCESSED], https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392",
+      "shortNote": "Department of Asian Art, “Kamakura and Nanbokucho Periods”"
+    },
+    {
+      "id": "met-muromachi",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Department of Asian Art. “Muromachi Period (1392–1573).” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. Accessed [ACCESSED]. https://www.metmuseum.org/essays/muromachi-period-1392-1573.",
+      "note": "Department of Asian Art, “Muromachi Period (1392–1573),” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, accessed [ACCESSED], https://www.metmuseum.org/essays/muromachi-period-1392-1573",
+      "shortNote": "Department of Asian Art, “Muromachi Period”"
+    },
+    {
+      "id": "met-shoguns",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Department of Asian Art. “Shōguns and Art.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2004. Accessed [ACCESSED]. https://www.metmuseum.org/essays/shoguns-and-art.",
+      "note": "Department of Asian Art, “Shōguns and Art,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2004, accessed [ACCESSED], https://www.metmuseum.org/essays/shoguns-and-art",
+      "shortNote": "Department of Asian Art, “Shōguns and Art”"
+    },
+    {
+      "id": "met-zen",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "Department of Asian Art. “Zen Buddhism.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. Accessed [ACCESSED]. https://www.metmuseum.org/essays/zen-buddhism.",
+      "note": "Department of Asian Art, “Zen Buddhism,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, accessed [ACCESSED], https://www.metmuseum.org/essays/zen-buddhism",
+      "shortNote": "Department of Asian Art, “Zen Buddhism”"
+    },
+    {
+      "id": "src-img-guo-xi",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Guo Xi. *Old Trees, Level Distance*. Ca. 1080. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1981.276. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39668.",
+      "note": "Guo Xi. *Old Trees, Level Distance*. Ca. 1080. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1981.276. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39668",
+      "shortNote": "Guo Xi"
+    },
+    {
+      "id": "src-img-ma-yuan",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Ma Yuan. *Scholar Viewing a Waterfall*. Early 13th century. Album leaf; ink and color on silk. The Metropolitan Museum of Art, New York, 1973.120.9. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40086.",
+      "note": "Ma Yuan. *Scholar Viewing a Waterfall*. Early 13th century. Album leaf; ink and color on silk. The Metropolitan Museum of Art, New York, 1973.120.9. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40086",
+      "shortNote": "Ma Yuan"
+    },
+    {
+      "id": "src-img-li-gonglin",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Li Gonglin. *The Classic of Filial Piety*. Ca. 1085. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1996.479a–c. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39895.",
+      "note": "Li Gonglin. *The Classic of Filial Piety*. Ca. 1085. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1996.479a–c. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39895",
+      "shortNote": "Li Gonglin"
+    },
+    {
+      "id": "src-img-longquan",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "*Bottle Vase*. 13th century, Southern Song dynasty. Stoneware with celadon glaze (Longquan ware); gold lacquer repairs. The Metropolitan Museum of Art, New York, 34.113.13. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/51050.",
+      "note": "*Bottle Vase*. 13th century, Southern Song dynasty. Stoneware with celadon glaze (Longquan ware); gold lacquer repairs. The Metropolitan Museum of Art, New York, 34.113.13. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/51050",
+      "shortNote": "Bottle vase"
+    },
+    {
+      "id": "src-img-goryeo",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "*Maebyeong (Plum Bottle) Decorated with Cranes and Clouds*. Second half of the 12th century, Goryeo dynasty. Stoneware with inlaid decoration under celadon glaze. The Metropolitan Museum of Art, New York, 11.8.1. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/42301.",
+      "note": "*Maebyeong (Plum Bottle) Decorated with Cranes and Clouds*. Second half of the 12th century, Goryeo dynasty. Stoneware with inlaid decoration under celadon glaze. The Metropolitan Museum of Art, New York, 11.8.1. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/42301",
+      "shortNote": "Maebyeong (plum bottle) with cranes and clouds"
+    },
+    {
+      "id": "src-img-yuan-bw",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "*Bottle with Peony Scroll*. Mid-14th century, Yuan dynasty. Porcelain painted with cobalt blue under a transparent glaze (Jingdezhen ware). The Metropolitan Museum of Art, New York, 26.271.1a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/49216.",
+      "note": "*Bottle with Peony Scroll*. Mid-14th century, Yuan dynasty. Porcelain painted with cobalt blue under a transparent glaze (Jingdezhen ware). The Metropolitan Museum of Art, New York, 26.271.1a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/49216",
+      "shortNote": "Bottle with peony scroll"
+    },
+    {
+      "id": "src-img-zhao-mengfu",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Zhao Mengfu. *Twin Pines, Level Distance*. Ca. 1310. Handscroll; ink on paper. The Metropolitan Museum of Art, New York, 1973.120.5. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40508.",
+      "note": "Zhao Mengfu. *Twin Pines, Level Distance*. Ca. 1310. Handscroll; ink on paper. The Metropolitan Museum of Art, New York, 1973.120.5. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40508",
+      "shortNote": "Zhao Mengfu"
+    },
+    {
+      "id": "src-img-tran-ewer",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "*Ewer with Makara Spout*. Ca. 14th century, Tran dynasty, Vietnam (Hong River region). Stoneware with iron-underglaze floral décor and ivory glaze. The Metropolitan Museum of Art, New York, 2021.183a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/853980.",
+      "note": "*Ewer with Makara Spout*. Ca. 14th century, Tran dynasty, Vietnam (Hong River region). Stoneware with iron-underglaze floral décor and ivory glaze. The Metropolitan Museum of Art, New York, 2021.183a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/853980",
+      "shortNote": "Ewer with makara spout"
+    },
+    {
+      "id": "src-img-qingming",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Zhang Zeduan, attributed. *Along the River During the Qingming Festival* (detail). Northern Song dynasty. Handscroll; ink and color on silk. Palace Museum, Beijing. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg.",
+      "note": "Zhang Zeduan, attributed. *Along the River During the Qingming Festival* (detail). Northern Song dynasty. Handscroll; ink and color on silk. Palace Museum, Beijing. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg",
+      "shortNote": "Along the River During the Qingming Festival (detail of the bridge)"
+    },
+    {
+      "id": "src-img-court-ladies",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "*Court Ladies Preparing Newly Woven Silk* (detail), after Zhang Xuan. Northern Song dynasty, early 12th century. Handscroll; ink and color on silk. Museum of Fine Arts, Boston. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(cropped).jpg.",
+      "note": "*Court Ladies Preparing Newly Woven Silk* (detail), after Zhang Xuan. Northern Song dynasty, early 12th century. Handscroll; ink and color on silk. Museum of Fine Arts, Boston. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(cropped).jpg",
+      "shortNote": "Court Ladies Preparing Newly Woven Silk (detail)"
+    },
+    {
+      "id": "src-img-zhuangzi",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "*Zhuangzi*, with commentary (“Da Sheng” volume). Song-dynasty printed edition, 13th century. Woodblock-printed book. Seikadō Bunko Library, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Zhuangzi_Song_Edition.jpg.",
+      "note": "*Zhuangzi*, with commentary (“Da Sheng” volume). Song-dynasty printed edition, 13th century. Woodblock-printed book. Seikadō Bunko Library, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Zhuangzi_Song_Edition.jpg",
+      "shortNote": "Opening pages of a volume of the Zhuangzi with commentary"
+    },
+    {
+      "id": "src-img-song-taizu",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Anonymous. *Seated Portrait of Song Taizu*. Song dynasty. Hanging scroll; ink and color on silk. National Palace Museum, Taipei. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Song_Taizu_(cropped).jpg.",
+      "note": "Anonymous. *Seated Portrait of Song Taizu*. Song dynasty. Hanging scroll; ink and color on silk. National Palace Museum, Taipei. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Song_Taizu_(cropped).jpg",
+      "shortNote": "Seated portrait of Song Taizu (r. 960–976)"
+    },
+    {
+      "id": "src-img-moko",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "*Mōko Shūrai Ekotoba* (Illustrated Account of the Mongol Invasions). Ca. 1293. Handscroll; ink and color on paper. Commissioned by Takezaki Suenaga. Museum of the Imperial Collections, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:M%C5%8Dko_Sh%C5%ABrai_Ekotoba.jpg.",
+      "note": "*Mōko Shūrai Ekotoba* (Illustrated Account of the Mongol Invasions). Ca. 1293. Handscroll; ink and color on paper. Commissioned by Takezaki Suenaga. Museum of the Imperial Collections, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:M%C5%8Dko_Sh%C5%ABrai_Ekotoba.jpg",
+      "shortNote": "Illustrated Account of the Mongol Invasions (Mōko Shūrai Ekotoba)"
+    },
+    {
+      "id": "src-img-iron-pagoda",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Gisling. *Kaifeng Iron Pagoda*. Photograph, 2011. Wikimedia Commons. Licensed under CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%B0%81%E9%93%81%E5%A1%94.jpg.",
+      "note": "Gisling. *Kaifeng Iron Pagoda*. Photograph, 2011. Wikimedia Commons. Licensed under CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%B0%81%E9%93%81%E5%A1%94.jpg",
+      "shortNote": "The Iron Pagoda of Kaifeng"
+    },
+    {
+      "id": "src-img-quanzhou-ship",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "meckleychina. *Song Dynasty Ancient Ship of Quanzhou Bay*. Photograph, 2006. Wikimedia Commons. Licensed under CC BY 2.0. https://commons.wikimedia.org/wiki/File:Song_Dynasty_Ancient_Ship_of_Quanzhou_Bay_20061229.jpg.",
+      "note": "meckleychina. *Song Dynasty Ancient Ship of Quanzhou Bay*. Photograph, 2006. Wikimedia Commons. Licensed under CC BY 2.0. https://commons.wikimedia.org/wiki/File:Song_Dynasty_Ancient_Ship_of_Quanzhou_Bay_20061229.jpg",
+      "shortNote": "The Quanzhou ship"
+    },
+    {
+      "id": "src-img-paper-money-plate",
+      "kind": "image",
+      "group": "Image credits",
+      "bibliography": "Popolon. *Plate of Paper Money, Northern Song Dynasty, China Printing Museum, Beijing*. Photograph, 2015. Wikimedia Commons. Licensed under CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg.",
+      "note": "Popolon. *Plate of Paper Money, Northern Song Dynasty, China Printing Museum, Beijing*. Photograph, 2015. Wikimedia Commons. Licensed under CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg",
+      "shortNote": "A Northern Song banknote printing plate"
+    },
+    {
+      "id": "met-chronology-1400",
+      "group": "The Metropolitan Museum of Art",
+      "bibliography": "“China, 1400–1600 A.D.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. Accessed [ACCESSED]. https://www.metmuseum.org/toah/ht/08/eac.html.",
+      "note": "“China, 1400–1600 A.D.,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, accessed [ACCESSED], https://www.metmuseum.org/toah/ht/08/eac.html",
+      "shortNote": "“China, 1400–1600 A.D.”"
+    }
+  ]
+}

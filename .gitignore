@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+
+# Private: teacher's slides and fact-check notes stay on this computer
+sources/
+VERIFY.md
