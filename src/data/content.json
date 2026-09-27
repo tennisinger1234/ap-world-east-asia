@@ -7,7 +7,7 @@
     "intro": "Topic 1.1 centers on Song China: a Confucian state run by exam-selected scholar-officials, and a commercial economy transformed by Champa rice, paper money, and maritime trade. This guide follows the Song through the seven PIRATES lenses, traces Chinese influence in Japan, Korea, and Vietnam, and then shows what continued and what changed under the Yuan and Ming.",
     "learningObjective": "“The economy of Song China flourished as a result of increased productive capacity, expanding trade networks, and innovations in agriculture and manufacturing.” College Board, Topic 1.1, KC-3.1.I.D",
     "footer": "AP World History study guide · Saddle River Day School",
-    "bibliographyNote": "Sources are listed alphabetically in Chicago notes-and-bibliography style. Footnotes on each page link here.",
+    "bibliographyNote": "Sources are grouped into primary and secondary sources and listed alphabetically in Chicago notes-and-bibliography style. Footnotes on each page link here.",
     "subtitle": "c. 1200–1450"
   },
   "categories": [
@@ -447,14 +447,15 @@
       "title": "Neo-Confucianism and Zhu Xi",
       "date": "Zhu Xi 1130–1200; spread 1200–1450",
       "region": "China → East Asia",
-      "summary": "Neo-Confucianism revived Confucian thought in response to the challenge of Buddhist metaphysics. Zhu Xi (1130–1200) synthesized major trends and made the Four Books the basis of Confucian learning and the civil service examinations. His interpretation became the orthodox version of Confucianism in later dynasties and in other East Asian countries.",
+      "summary": "Neo-Confucianism revived Confucian thought in response to the challenge of Buddhist metaphysics. Zhu Xi (1130–1200) synthesized major trends and made the Four Books the basis of Confucian learning and the civil service examinations. In his 1189 preface to the Great Learning, he wrote that higher learning taught “the way of self-cultivation and governance of men through the fathoming of principle and rectifying of the mind.” His interpretation became the orthodox version of Confucianism in later dynasties and in other East Asian countries.",
       "globalConnection": "Cultural diffusion: Zhu Xi's Neo-Confucianism became the accepted interpretation of Confucianism in other East Asian countries, carrying Chinese ideas to Korea, Japan, and Vietnam.",
       "connectionType": "continuity",
       "sourceIds": [
         "afe-song",
         "met-chronology",
         "oer-eastasia",
-        "ced"
+        "ced",
+        "ps-zhuxi-learning"
       ],
       "locators": {
         "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html"
@@ -1454,12 +1455,13 @@
       "title": "The scholar-official elite",
       "date": "Song, 960–1279",
       "region": "China",
-      "summary": "Most scholars came from the landholding class but gained prestige from learning and political influence from office. In a mostly illiterate society, their education set them apart, and Confucian training encouraged them to criticize officials they thought wrong. Men passed the exams, on average, at a little over 30, and most who studied for years never became officials.",
+      "summary": "Most scholars came from the landholding class but gained prestige from learning and political influence from office. Confucian training encouraged them to speak up when they thought officials were wrong, and they proposed policies of their own: in 1069 the official Wang Anshi urged that farmers be lent government money before the harvest, so that moneylenders could no longer charge them “interest at twice the normal rate.” Men passed the exams, on average, at a little over 30, and most who studied for years never became officials.",
       "globalConnection": "Social structures: an elite defined by education rather than birth alone distinguished Song China from warrior-led societies such as Japan.",
       "connectionType": "continuity",
       "sourceIds": [
         "afe-song",
-        "slides"
+        "slides",
+        "ps-wang-anshi"
       ],
       "locators": {
         "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html",
@@ -3145,6 +3147,52 @@
         "itemIds": [
           "econ-exports"
         ]
+      },
+      {
+        "id": "q-zhuxi-preface",
+        "stimulus": {
+          "type": "quote",
+          "text": "Thereafter came the vulgar Confucian scholarship, stressing memorization and literary composition, which took double the exertion of the elementary education but was of no real use.",
+          "attribution": "Zhu Xi, “Preface to the Great Learning by Chapter and Phrase” (1189), in Sources of Chinese Tradition",
+          "sourceIds": [
+            "ps-zhuxi-learning"
+          ]
+        },
+        "question": "Zhu Xi's criticism in this passage best reflects which goal of Neo-Confucianism?",
+        "choices": [
+          "Replacing Confucian learning with Buddhist meditation",
+          "Making learning about moral self-cultivation rather than rote memorization",
+          "Ending the civil service examinations entirely",
+          "Teaching only military strategy to officials"
+        ],
+        "answer": 1,
+        "explanation": "Zhu Xi wanted learning to teach “self-cultivation and governance of men,” not just memorization and composition. The same preface calls Buddhism and Daoism “deviant doctrines,” so choice A is wrong.",
+        "itemIds": [
+          "int-neo-confucianism"
+        ]
+      },
+      {
+        "id": "q-wang-anshi",
+        "stimulus": {
+          "type": "quote",
+          "text": "Farmers desirous of borrowing money before the harvest should be granted loans, to be repaid at the same time as they pay their tax, half with the summer payment and half with the autumn payment.",
+          "attribution": "Wang Anshi, “Memorial on the Crop Loans Measure” (1069), in Sources of Chinese Tradition",
+          "sourceIds": [
+            "ps-wang-anshi"
+          ]
+        },
+        "question": "Wang Anshi's proposal is best understood as an example of",
+        "choices": [
+          "a Song scholar-official using government policy to protect farmers from moneylenders",
+          "Mongol taxation of Chinese peasants",
+          "a merchant guild setting grain prices",
+          "the Ming ban on private trade"
+        ],
+        "answer": 0,
+        "explanation": "Wang Anshi, a Song official, argued that government loans would keep “monopolistic houses” from charging farmers interest at twice the normal rate. Scholar-officials shaped economic policy.",
+        "itemIds": [
+          "soc-scholar-gentry"
+        ]
       }
     ],
     "saq": [
@@ -3627,288 +3675,344 @@
   "sources": [
     {
       "id": "slides",
-      "group": "Course materials",
+      "group": "Books, articles, and websites",
       "bibliography": "Ferreira, JP. “1.1: Developments in East Asia (1200–1450).” Lecture slides, AP World History, Saddle River Day School, n.d.",
       "note": "JP Ferreira, “1.1: Developments in East Asia (1200–1450)” (lecture slides, AP World History, Saddle River Day School, n.d.), {loc}",
-      "shortNote": "Ferreira, “Developments in East Asia,” {loc}"
+      "shortNote": "Ferreira, “Developments in East Asia,” {loc}",
+      "category": "secondary"
     },
     {
       "id": "ced",
-      "group": "Course materials",
+      "group": "Books, articles, and websites",
       "bibliography": "College Board. *AP World History: Modern Course and Exam Description*. Effective Fall 2026. College Board, 2026. https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf.",
       "note": "College Board, *AP World History: Modern Course and Exam Description*, effective fall 2026 (College Board, 2026), {loc}",
       "shortNote": "College Board, *AP World History: Modern CED*, {loc}",
-      "defaultLoc": "38–39"
+      "defaultLoc": "38–39",
+      "category": "secondary"
     },
     {
       "id": "oer-eastasia",
-      "group": "OER Project",
-      "bibliography": "Wiesner-Hanks, Merry. “East Asia 1200–1450: China, Korea & Japan.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/East-Asia-1200-1450.",
-      "note": "Merry Wiesner-Hanks, “East Asia 1200–1450: China, Korea & Japan,” *World History AP*, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/East-Asia-1200-1450",
-      "shortNote": "Wiesner-Hanks, “East Asia 1200–1450”"
+      "group": "Books, articles, and websites",
+      "bibliography": "Wiesner-Hanks, Merry. “East Asia 1200–1450: China, Korea & Japan.” World History AP, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/East-Asia-1200-1450.",
+      "note": "Merry Wiesner-Hanks, “East Asia 1200–1450: China, Korea & Japan,” World History AP, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/East-Asia-1200-1450",
+      "shortNote": "Wiesner-Hanks, “East Asia 1200–1450”",
+      "category": "secondary"
     },
     {
       "id": "oer-ssea",
-      "group": "OER Project",
-      "bibliography": "Wiesner-Hanks, Merry. “South & Southeast Asia 1200–1450.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/South-and-Southeast-Asia-1200-1450.",
-      "note": "Merry Wiesner-Hanks, “South & Southeast Asia 1200–1450,” *World History AP*, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/South-and-Southeast-Asia-1200-1450",
-      "shortNote": "Wiesner-Hanks, “South & Southeast Asia”"
+      "group": "Books, articles, and websites",
+      "bibliography": "Wiesner-Hanks, Merry. “South & Southeast Asia 1200–1450.” World History AP, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/South-and-Southeast-Asia-1200-1450.",
+      "note": "Merry Wiesner-Hanks, “South & Southeast Asia 1200–1450,” World History AP, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/South-and-Southeast-Asia-1200-1450",
+      "shortNote": "Wiesner-Hanks, “South & Southeast Asia”",
+      "category": "secondary"
     },
     {
       "id": "oer-state-religion",
-      "group": "OER Project",
-      "bibliography": "Getz, Trevor. “State and Religion in Afro-Eurasia, c.1200–1450.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/State-and-Religion-in-Afro-Eurasia-c-1200-1450.",
-      "note": "Trevor Getz, “State and Religion in Afro-Eurasia, c.1200–1450,” *World History AP*, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/State-and-Religion-in-Afro-Eurasia-c-1200-1450",
-      "shortNote": "Getz, “State and Religion”"
+      "group": "Books, articles, and websites",
+      "bibliography": "Getz, Trevor. “State and Religion in Afro-Eurasia, c.1200–1450.” World History AP, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/State-and-Religion-in-Afro-Eurasia-c-1200-1450.",
+      "note": "Trevor Getz, “State and Religion in Afro-Eurasia, c.1200–1450,” World History AP, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/State-and-Religion-in-Afro-Eurasia-c-1200-1450",
+      "shortNote": "Getz, “State and Religion”",
+      "category": "secondary"
     },
     {
       "id": "oer-confucianism",
-      "group": "OER Project",
-      "bibliography": "Elshaikh, Eman M. “Confucianism: Beliefs & Government.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Confucianism.",
-      "note": "Eman M. Elshaikh, “Confucianism: Beliefs & Government,” *World History AP*, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Confucianism",
-      "shortNote": "Elshaikh, “Confucianism”"
+      "group": "Books, articles, and websites",
+      "bibliography": "Elshaikh, Eman M. “Confucianism: Beliefs & Government.” World History AP, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Confucianism.",
+      "note": "Eman M. Elshaikh, “Confucianism: Beliefs & Government,” World History AP, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Confucianism",
+      "shortNote": "Elshaikh, “Confucianism”",
+      "category": "secondary"
     },
     {
       "id": "oer-buddhism",
-      "group": "OER Project",
-      "bibliography": "Elshaikh, Eman M. “Buddhism: Origins, Beliefs & Spread.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Buddhism.",
-      "note": "Eman M. Elshaikh, “Buddhism: Origins, Beliefs & Spread,” *World History AP*, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Buddhism",
-      "shortNote": "Elshaikh, “Buddhism”"
+      "group": "Books, articles, and websites",
+      "bibliography": "Elshaikh, Eman M. “Buddhism: Origins, Beliefs & Spread.” World History AP, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Buddhism.",
+      "note": "Eman M. Elshaikh, “Buddhism: Origins, Beliefs & Spread,” World History AP, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Buddhism",
+      "shortNote": "Elshaikh, “Buddhism”",
+      "category": "secondary"
     },
     {
       "id": "oer-why",
-      "group": "OER Project",
-      "bibliography": "O'Connor, Bridgette Byrd. “Why Do Belief Systems Spread? How China Made Buddhism Its Own.” *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Why-Do-Belief-Systems-Spread.",
-      "note": "Bridgette Byrd O'Connor, “Why Do Belief Systems Spread? How China Made Buddhism Its Own,” *World History AP*, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Why-Do-Belief-Systems-Spread",
-      "shortNote": "O'Connor, “Why Do Belief Systems Spread?”"
+      "group": "Books, articles, and websites",
+      "bibliography": "O'Connor, Bridgette Byrd. “Why Do Belief Systems Spread? How China Made Buddhism Its Own.” World History AP, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Why-Do-Belief-Systems-Spread.",
+      "note": "Bridgette Byrd O'Connor, “Why Do Belief Systems Spread? How China Made Buddhism Its Own,” World History AP, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit1/Why-Do-Belief-Systems-Spread",
+      "shortNote": "O'Connor, “Why Do Belief Systems Spread?”",
+      "category": "secondary"
     },
     {
       "id": "oer-silk",
-      "group": "OER Project",
-      "bibliography": "“Silk and the State in Song Dynasty China.” Hosted by Francesca Hodges, with Xiaolin Duan. Video. *World History AP*, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/Videos/WHP-AP/Unit1/Silk-and-the-Song-Dynasty.",
-      "note": "“Silk and the State in Song Dynasty China,” hosted by Francesca Hodges, with Xiaolin Duan, video, *World History AP*, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/Videos/WHP-AP/Unit1/Silk-and-the-Song-Dynasty",
-      "shortNote": "“Silk and the State in Song Dynasty China”"
+      "group": "Books, articles, and websites",
+      "bibliography": "“Silk and the State in Song Dynasty China.” Hosted by Francesca Hodges, with Xiaolin Duan. Video. World History AP, Unit 1: The Global Tapestry, c. 1200 to 1450 CE. OER Project. https://www.oerproject.com/OER-Materials/OER-Media/Videos/WHP-AP/Unit1/Silk-and-the-Song-Dynasty.",
+      "note": "“Silk and the State in Song Dynasty China,” hosted by Francesca Hodges, with Xiaolin Duan, video, World History AP, Unit 1, OER Project, https://www.oerproject.com/OER-Materials/OER-Media/Videos/WHP-AP/Unit1/Silk-and-the-Song-Dynasty",
+      "shortNote": "“Silk and the State in Song Dynasty China”",
+      "category": "secondary"
     },
     {
       "id": "afe-song",
-      "group": "Asia for Educators",
+      "group": "Books, articles, and websites",
       "bibliography": "Asia for Educators. “Song Dynasty China.” Columbia University. https://afe.easia.columbia.edu/songdynasty-module/.",
       "note": "Asia for Educators, “Song Dynasty China,” Columbia University, {loc}",
       "shortNote": "Asia for Educators, “Song Dynasty China,” {loc}",
-      "defaultLoc": "https://afe.easia.columbia.edu/songdynasty-module/"
+      "defaultLoc": "https://afe.easia.columbia.edu/songdynasty-module/",
+      "category": "secondary"
     },
     {
       "id": "afe-mongols",
-      "group": "Asia for Educators",
+      "group": "Books, articles, and websites",
       "bibliography": "Asia for Educators. “The Mongols in World History.” Columbia University. https://afe.easia.columbia.edu/mongols/.",
       "note": "Asia for Educators, “The Mongols in World History,” Columbia University, {loc}",
       "shortNote": "Asia for Educators, “Mongols in World History,” {loc}",
-      "defaultLoc": "https://afe.easia.columbia.edu/mongols/"
+      "defaultLoc": "https://afe.easia.columbia.edu/mongols/",
+      "category": "secondary"
     },
     {
       "id": "met-chronology",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "“China, 1000–1400 A.D.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2001. https://www.metmuseum.org/toah/ht/07/eac.html.",
       "note": "“China, 1000–1400 A.D.,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2001, https://www.metmuseum.org/toah/ht/07/eac.html",
-      "shortNote": "“China, 1000–1400 A.D.”"
+      "shortNote": "“China, 1000–1400 A.D.”",
+      "category": "secondary"
     },
     {
       "id": "met-landscape",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Department of Asian Art. “Landscape Painting in Chinese Art.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2004. https://www.metmuseum.org/essays/landscape-painting-in-chinese-art.",
       "note": "Department of Asian Art, “Landscape Painting in Chinese Art,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2004, https://www.metmuseum.org/essays/landscape-painting-in-chinese-art",
-      "shortNote": "Department of Asian Art, “Landscape Painting”"
+      "shortNote": "Department of Asian Art, “Landscape Painting”",
+      "category": "secondary"
     },
     {
       "id": "met-chinese-painting",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Hearn, Maxwell K. “Chinese Painting.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. June 2008. https://www.metmuseum.org/essays/chinese-painting.",
       "note": "Maxwell K. Hearn, “Chinese Painting,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), June 2008, https://www.metmuseum.org/essays/chinese-painting",
-      "shortNote": "Hearn, “Chinese Painting”"
+      "shortNote": "Hearn, “Chinese Painting”",
+      "category": "secondary"
     },
     {
       "id": "met-yuan",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Department of Asian Art. “Yuan Dynasty (1271–1368).” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2001. https://www.metmuseum.org/essays/yuan-dynasty-1271-1368.",
       "note": "Department of Asian Art, “Yuan Dynasty (1271–1368),” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2001, https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
-      "shortNote": "Department of Asian Art, “Yuan Dynasty”"
+      "shortNote": "Department of Asian Art, “Yuan Dynasty”",
+      "category": "secondary"
     },
     {
       "id": "met-goryeo",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Lee, Soyoung. “Goryeo Celadon.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2003. https://www.metmuseum.org/essays/goryeo-celadon.",
       "note": "Soyoung Lee, “Goryeo Celadon,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2003, https://www.metmuseum.org/essays/goryeo-celadon",
-      "shortNote": "Lee, “Goryeo Celadon”"
+      "shortNote": "Lee, “Goryeo Celadon”",
+      "category": "secondary"
     },
     {
       "id": "met-noh",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Denney, Joyce. “Nō Costume.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. December 2008. https://www.metmuseum.org/essays/noh-costume.",
       "note": "Joyce Denney, “Nō Costume,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), December 2008, https://www.metmuseum.org/essays/noh-costume",
-      "shortNote": "Denney, “Nō Costume”"
+      "shortNote": "Denney, “Nō Costume”",
+      "category": "secondary"
     },
     {
       "id": "met-kamakura",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Department of Asian Art. “Kamakura and Nanbokucho Periods (1185–1392).” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392.",
       "note": "Department of Asian Art, “Kamakura and Nanbokucho Periods (1185–1392),” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392",
-      "shortNote": "Department of Asian Art, “Kamakura and Nanbokucho Periods”"
+      "shortNote": "Department of Asian Art, “Kamakura and Nanbokucho Periods”",
+      "category": "secondary"
     },
     {
       "id": "met-muromachi",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Department of Asian Art. “Muromachi Period (1392–1573).” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. https://www.metmuseum.org/essays/muromachi-period-1392-1573.",
       "note": "Department of Asian Art, “Muromachi Period (1392–1573),” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, https://www.metmuseum.org/essays/muromachi-period-1392-1573",
-      "shortNote": "Department of Asian Art, “Muromachi Period”"
+      "shortNote": "Department of Asian Art, “Muromachi Period”",
+      "category": "secondary"
     },
     {
       "id": "met-shoguns",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Department of Asian Art. “Shōguns and Art.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2004. https://www.metmuseum.org/essays/shoguns-and-art.",
       "note": "Department of Asian Art, “Shōguns and Art,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2004, https://www.metmuseum.org/essays/shoguns-and-art",
-      "shortNote": "Department of Asian Art, “Shōguns and Art”"
+      "shortNote": "Department of Asian Art, “Shōguns and Art”",
+      "category": "secondary"
     },
     {
       "id": "met-zen",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "Department of Asian Art. “Zen Buddhism.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. https://www.metmuseum.org/essays/zen-buddhism.",
       "note": "Department of Asian Art, “Zen Buddhism,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, https://www.metmuseum.org/essays/zen-buddhism",
-      "shortNote": "Department of Asian Art, “Zen Buddhism”"
+      "shortNote": "Department of Asian Art, “Zen Buddhism”",
+      "category": "secondary"
     },
     {
       "id": "src-img-guo-xi",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "Guo Xi. *Old Trees, Level Distance*. Ca. 1080. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1981.276. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39668.",
-      "note": "Guo Xi. *Old Trees, Level Distance*. Ca. 1080. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1981.276. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39668",
-      "shortNote": "Guo Xi"
+      "note": "Guo Xi, *Old Trees, Level Distance*, ca. 1080, handscroll; ink and color on silk, The Metropolitan Museum of Art, New York, 1981.276, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/39668",
+      "shortNote": "Guo Xi, *Old Trees, Level Distance*",
+      "category": "primary"
     },
     {
       "id": "src-img-ma-yuan",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "Ma Yuan. *Scholar Viewing a Waterfall*. Early 13th century. Album leaf; ink and color on silk. The Metropolitan Museum of Art, New York, 1973.120.9. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40086.",
-      "note": "Ma Yuan. *Scholar Viewing a Waterfall*. Early 13th century. Album leaf; ink and color on silk. The Metropolitan Museum of Art, New York, 1973.120.9. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40086",
-      "shortNote": "Ma Yuan"
+      "note": "Ma Yuan, *Scholar Viewing a Waterfall*, early 13th century, album leaf; ink and color on silk, The Metropolitan Museum of Art, New York, 1973.120.9, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/40086",
+      "shortNote": "Ma Yuan, *Scholar Viewing a Waterfall*",
+      "category": "primary"
     },
     {
       "id": "src-img-li-gonglin",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "Li Gonglin. *The Classic of Filial Piety*. Ca. 1085. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1996.479a–c. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39895.",
-      "note": "Li Gonglin. *The Classic of Filial Piety*. Ca. 1085. Handscroll; ink and color on silk. The Metropolitan Museum of Art, New York, 1996.479a–c. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/39895",
-      "shortNote": "Li Gonglin"
+      "note": "Li Gonglin, *The Classic of Filial Piety*, ca. 1085, handscroll; ink and color on silk, The Metropolitan Museum of Art, New York, 1996.479a–c, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/39895",
+      "shortNote": "Li Gonglin, *The Classic of Filial Piety*",
+      "category": "primary"
     },
     {
       "id": "src-img-longquan",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "*Bottle Vase*. 13th century, Southern Song dynasty. Stoneware with celadon glaze (Longquan ware); gold lacquer repairs. The Metropolitan Museum of Art, New York, 34.113.13. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/51050.",
-      "note": "*Bottle Vase*. 13th century, Southern Song dynasty. Stoneware with celadon glaze (Longquan ware); gold lacquer repairs. The Metropolitan Museum of Art, New York, 34.113.13. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/51050",
-      "shortNote": "Bottle vase"
+      "note": "*Bottle Vase*, 13th century, Southern Song dynasty, stoneware with celadon glaze (Longquan ware); gold lacquer repairs, The Metropolitan Museum of Art, New York, 34.113.13, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/51050",
+      "shortNote": "*Bottle Vase*",
+      "category": "primary"
     },
     {
       "id": "src-img-goryeo",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "*Maebyeong (Plum Bottle) Decorated with Cranes and Clouds*. Second half of the 12th century, Goryeo dynasty. Stoneware with inlaid decoration under celadon glaze. The Metropolitan Museum of Art, New York, 11.8.1. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/42301.",
-      "note": "*Maebyeong (Plum Bottle) Decorated with Cranes and Clouds*. Second half of the 12th century, Goryeo dynasty. Stoneware with inlaid decoration under celadon glaze. The Metropolitan Museum of Art, New York, 11.8.1. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/42301",
-      "shortNote": "Maebyeong (plum bottle) with cranes and clouds"
+      "note": "*Maebyeong (Plum Bottle) Decorated with Cranes and Clouds*, second half of the 12th century, Goryeo dynasty, stoneware with inlaid decoration under celadon glaze, The Metropolitan Museum of Art, New York, 11.8.1, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/42301",
+      "shortNote": "*Maebyeong (Plum Bottle) Decorated with Cranes and Clouds*",
+      "category": "primary"
     },
     {
       "id": "src-img-yuan-bw",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "*Bottle with Peony Scroll*. Mid-14th century, Yuan dynasty. Porcelain painted with cobalt blue under a transparent glaze (Jingdezhen ware). The Metropolitan Museum of Art, New York, 26.271.1a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/49216.",
-      "note": "*Bottle with Peony Scroll*. Mid-14th century, Yuan dynasty. Porcelain painted with cobalt blue under a transparent glaze (Jingdezhen ware). The Metropolitan Museum of Art, New York, 26.271.1a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/49216",
-      "shortNote": "Bottle with peony scroll"
+      "note": "*Bottle with Peony Scroll*, mid-14th century, Yuan dynasty, porcelain painted with cobalt blue under a transparent glaze (Jingdezhen ware), The Metropolitan Museum of Art, New York, 26.271.1a, b, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/49216",
+      "shortNote": "*Bottle with Peony Scroll*",
+      "category": "primary"
     },
     {
       "id": "src-img-zhao-mengfu",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "Zhao Mengfu. *Twin Pines, Level Distance*. Ca. 1310. Handscroll; ink on paper. The Metropolitan Museum of Art, New York, 1973.120.5. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40508.",
-      "note": "Zhao Mengfu. *Twin Pines, Level Distance*. Ca. 1310. Handscroll; ink on paper. The Metropolitan Museum of Art, New York, 1973.120.5. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/40508",
-      "shortNote": "Zhao Mengfu"
+      "note": "Zhao Mengfu, *Twin Pines, Level Distance*, ca. 1310, handscroll; ink on paper, The Metropolitan Museum of Art, New York, 1973.120.5, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/40508",
+      "shortNote": "Zhao Mengfu, *Twin Pines, Level Distance*",
+      "category": "primary"
     },
     {
       "id": "src-img-tran-ewer",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "*Ewer with Makara Spout*. Ca. 14th century, Tran dynasty, Vietnam (Hong River region). Stoneware with iron-underglaze floral décor and ivory glaze. The Metropolitan Museum of Art, New York, 2021.183a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/853980.",
-      "note": "*Ewer with Makara Spout*. Ca. 14th century, Tran dynasty, Vietnam (Hong River region). Stoneware with iron-underglaze floral décor and ivory glaze. The Metropolitan Museum of Art, New York, 2021.183a, b. Public domain (CC0), The Met Open Access. https://www.metmuseum.org/art/collection/search/853980",
-      "shortNote": "Ewer with makara spout"
+      "note": "*Ewer with Makara Spout*, ca. 14th century, Tran dynasty, Vietnam (Hong River region), stoneware with iron-underglaze floral décor and ivory glaze, The Metropolitan Museum of Art, New York, 2021.183a, b, public domain (CC0), The Met Open Access, https://www.metmuseum.org/art/collection/search/853980",
+      "shortNote": "*Ewer with Makara Spout*",
+      "category": "primary"
     },
     {
       "id": "src-img-qingming",
       "kind": "image",
-      "group": "Image credits",
-      "bibliography": "Zhang Zeduan, attributed. *Along the River During the Qingming Festival* (detail). Northern Song dynasty. Handscroll; ink and color on silk. Palace Museum, Beijing. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg.",
-      "note": "Zhang Zeduan, attributed. *Along the River During the Qingming Festival* (detail). Northern Song dynasty. Handscroll; ink and color on silk. Palace Museum, Beijing. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg",
-      "shortNote": "Along the River During the Qingming Festival (detail of the bridge)"
+      "group": "Artworks and objects",
+      "bibliography": "Zhang Zeduan (attributed). *Along the River During the Qingming Festival* (detail). Northern Song dynasty. Handscroll; ink and color on silk. Palace Museum, Beijing. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg.",
+      "note": "Zhang Zeduan (attributed), *Along the River During the Qingming Festival* (detail), Northern Song dynasty, handscroll; ink and color on silk, Palace Museum, Beijing, public domain, image via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg",
+      "shortNote": "Zhang Zeduan, *Along the River During the Qingming Festival*",
+      "category": "primary"
     },
     {
       "id": "src-img-court-ladies",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "*Court Ladies Preparing Newly Woven Silk* (detail), after Zhang Xuan. Northern Song dynasty, early 12th century. Handscroll; ink and color on silk. Museum of Fine Arts, Boston. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(cropped).jpg.",
-      "note": "*Court Ladies Preparing Newly Woven Silk* (detail), after Zhang Xuan. Northern Song dynasty, early 12th century. Handscroll; ink and color on silk. Museum of Fine Arts, Boston. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(cropped).jpg",
-      "shortNote": "Court Ladies Preparing Newly Woven Silk (detail)"
+      "note": "*Court Ladies Preparing Newly Woven Silk* (detail), after Zhang Xuan, Northern Song dynasty, early 12th century, handscroll; ink and color on silk, Museum of Fine Arts, Boston, public domain, image via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(cropped).jpg",
+      "shortNote": "*Court Ladies Preparing Newly Woven Silk*",
+      "category": "primary"
     },
     {
       "id": "src-img-zhuangzi",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "*Zhuangzi*, with commentary (“Da Sheng” volume). Song-dynasty printed edition, 13th century. Woodblock-printed book. Seikadō Bunko Library, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Zhuangzi_Song_Edition.jpg.",
-      "note": "*Zhuangzi*, with commentary (“Da Sheng” volume). Song-dynasty printed edition, 13th century. Woodblock-printed book. Seikadō Bunko Library, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Zhuangzi_Song_Edition.jpg",
-      "shortNote": "Opening pages of a volume of the Zhuangzi with commentary"
+      "note": "*Zhuangzi*, with commentary (“Da Sheng” volume), song-dynasty printed edition, 13th century, woodblock-printed book, Seikadō Bunko Library, Tokyo, public domain, image via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Zhuangzi_Song_Edition.jpg",
+      "shortNote": "*Zhuangzi*",
+      "category": "primary"
     },
     {
       "id": "src-img-song-taizu",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "Anonymous. *Seated Portrait of Song Taizu*. Song dynasty. Hanging scroll; ink and color on silk. National Palace Museum, Taipei. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Song_Taizu_(cropped).jpg.",
-      "note": "Anonymous. *Seated Portrait of Song Taizu*. Song dynasty. Hanging scroll; ink and color on silk. National Palace Museum, Taipei. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Song_Taizu_(cropped).jpg",
-      "shortNote": "Seated portrait of Song Taizu (r. 960–976)"
+      "note": "Anonymous, *Seated Portrait of Song Taizu*, Song dynasty, hanging scroll; ink and color on silk, National Palace Museum, Taipei, public domain, image via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Song_Taizu_(cropped).jpg",
+      "shortNote": "*Seated Portrait of Song Taizu*",
+      "category": "primary"
     },
     {
       "id": "src-img-moko",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Artworks and objects",
       "bibliography": "*Mōko Shūrai Ekotoba* (Illustrated Account of the Mongol Invasions). Ca. 1293. Handscroll; ink and color on paper. Commissioned by Takezaki Suenaga. Museum of the Imperial Collections, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:M%C5%8Dko_Sh%C5%ABrai_Ekotoba.jpg.",
-      "note": "*Mōko Shūrai Ekotoba* (Illustrated Account of the Mongol Invasions). Ca. 1293. Handscroll; ink and color on paper. Commissioned by Takezaki Suenaga. Museum of the Imperial Collections, Tokyo. Public domain. Image via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:M%C5%8Dko_Sh%C5%ABrai_Ekotoba.jpg",
-      "shortNote": "Illustrated Account of the Mongol Invasions (Mōko Shūrai Ekotoba)"
+      "note": "*Mōko Shūrai Ekotoba* (Illustrated Account of the Mongol Invasions), ca. 1293, handscroll; ink and color on paper, commissioned by Takezaki Suenaga, Museum of the Imperial Collections, Tokyo, public domain, image via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:M%C5%8Dko_Sh%C5%ABrai_Ekotoba.jpg",
+      "shortNote": "*Mōko Shūrai Ekotoba*",
+      "category": "primary"
     },
     {
       "id": "src-img-iron-pagoda",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Photographs",
       "bibliography": "Gisling. *Kaifeng Iron Pagoda*. Photograph, 2011. Wikimedia Commons. Licensed under CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%B0%81%E9%93%81%E5%A1%94.jpg.",
-      "note": "Gisling. *Kaifeng Iron Pagoda*. Photograph, 2011. Wikimedia Commons. Licensed under CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%B0%81%E9%93%81%E5%A1%94.jpg",
-      "shortNote": "The Iron Pagoda of Kaifeng"
+      "note": "Gisling, *Kaifeng Iron Pagoda*, photograph, 2011, Wikimedia Commons, licensed under CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%B0%81%E9%93%81%E5%A1%94.jpg",
+      "shortNote": "Gisling, *Kaifeng Iron Pagoda*",
+      "category": "secondary"
     },
     {
       "id": "src-img-quanzhou-ship",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Photographs",
       "bibliography": "meckleychina. *Song Dynasty Ancient Ship of Quanzhou Bay*. Photograph, 2006. Wikimedia Commons. Licensed under CC BY 2.0. https://commons.wikimedia.org/wiki/File:Song_Dynasty_Ancient_Ship_of_Quanzhou_Bay_20061229.jpg.",
-      "note": "meckleychina. *Song Dynasty Ancient Ship of Quanzhou Bay*. Photograph, 2006. Wikimedia Commons. Licensed under CC BY 2.0. https://commons.wikimedia.org/wiki/File:Song_Dynasty_Ancient_Ship_of_Quanzhou_Bay_20061229.jpg",
-      "shortNote": "The Quanzhou ship"
+      "note": "meckleychina, *Song Dynasty Ancient Ship of Quanzhou Bay*, photograph, 2006, Wikimedia Commons, licensed under CC BY 2.0, https://commons.wikimedia.org/wiki/File:Song_Dynasty_Ancient_Ship_of_Quanzhou_Bay_20061229.jpg",
+      "shortNote": "meckleychina, *Song Dynasty Ancient Ship of Quanzhou Bay*",
+      "category": "secondary"
     },
     {
       "id": "src-img-paper-money-plate",
       "kind": "image",
-      "group": "Image credits",
+      "group": "Photographs",
       "bibliography": "Popolon. *Plate of Paper Money, Northern Song Dynasty, China Printing Museum, Beijing*. Photograph, 2015. Wikimedia Commons. Licensed under CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg.",
-      "note": "Popolon. *Plate of Paper Money, Northern Song Dynasty, China Printing Museum, Beijing*. Photograph, 2015. Wikimedia Commons. Licensed under CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg",
-      "shortNote": "A Northern Song banknote printing plate"
+      "note": "Popolon, *Plate of Paper Money, Northern Song Dynasty, China Printing Museum, Beijing*, photograph, 2015, Wikimedia Commons, licensed under CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg",
+      "shortNote": "Popolon, *Plate of Paper Money, Northern Song Dynasty, China Printing Museum, Beijing*",
+      "category": "secondary"
     },
     {
       "id": "met-chronology-1400",
-      "group": "The Metropolitan Museum of Art",
+      "group": "Books, articles, and websites",
       "bibliography": "“China, 1400–1600 A.D.” In *Heilbrunn Timeline of Art History*. New York: The Metropolitan Museum of Art, 2000–. October 2002. https://www.metmuseum.org/toah/ht/08/eac.html.",
       "note": "“China, 1400–1600 A.D.,” in *Heilbrunn Timeline of Art History* (New York: The Metropolitan Museum of Art, 2000–), October 2002, https://www.metmuseum.org/toah/ht/08/eac.html",
-      "shortNote": "“China, 1400–1600 A.D.”"
+      "shortNote": "“China, 1400–1600 A.D.”",
+      "category": "secondary"
+    },
+    {
+      "id": "ps-zhuxi-learning",
+      "category": "primary",
+      "group": "Written primary sources",
+      "bibliography": "Zhu Xi. “Preface to the Great Learning by Chapter and Phrase.” 1189. In *Sources of Chinese Tradition*, vol. 1, compiled by Wm. Theodore de Bary and Irene Bloom, 2nd ed., 722–25. New York: Columbia University Press, 1999. Reproduced in Asia for Educators, Columbia University. https://afe.easia.columbia.edu/ps/cup/zhuxi_learning.pdf.",
+      "note": "Zhu Xi, “Preface to the Great Learning by Chapter and Phrase” (1189), in *Sources of Chinese Tradition*, vol. 1, comp. Wm. Theodore de Bary and Irene Bloom, 2nd ed. (New York: Columbia University Press, 1999), {loc}, https://afe.easia.columbia.edu/ps/cup/zhuxi_learning.pdf",
+      "shortNote": "Zhu Xi, “Preface to the Great Learning,” {loc}",
+      "defaultLoc": "722–25"
+    },
+    {
+      "id": "ps-wang-anshi",
+      "category": "primary",
+      "group": "Written primary sources",
+      "bibliography": "Wang Anshi. “Memorial on the Crop Loans Measure.” 1069. In *Sources of Chinese Tradition*, vol. 1, compiled by Wm. Theodore de Bary and Irene Bloom, 2nd ed., 617–18. New York: Columbia University Press, 1999. Reproduced in Asia for Educators, Columbia University. https://afe.easia.columbia.edu/ps/cup/wang_anshi_crop_loans.pdf.",
+      "note": "Wang Anshi, “Memorial on the Crop Loans Measure” (1069), in *Sources of Chinese Tradition*, vol. 1, comp. Wm. Theodore de Bary and Irene Bloom, 2nd ed. (New York: Columbia University Press, 1999), {loc}, https://afe.easia.columbia.edu/ps/cup/wang_anshi_crop_loans.pdf",
+      "shortNote": "Wang Anshi, “Memorial on the Crop Loans Measure,” {loc}",
+      "defaultLoc": "617–18"
     }
   ]
 }

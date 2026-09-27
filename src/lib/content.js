@@ -38,6 +38,17 @@ const sortKey = (s) => s.bibliography.replace(/^[\s"“[*]+/, '').toLowerCase()
 const byKey = (a, b) => sortKey(a).localeCompare(sortKey(b))
 export const bibliography = sources.filter((s) => s.kind !== 'image').sort(byKey)
 export const imageCredits = sources.filter((s) => s.kind === 'image').sort(byKey)
+// Sources page groups: primary (written texts, period artworks and objects) vs. secondary.
+export const sourceGroups = [
+  { title: 'Primary Sources', parts: [
+    { title: 'Written sources', list: sources.filter((s) => s.category === 'primary' && s.kind !== 'image').sort(byKey) },
+    { title: 'Artworks and objects', list: sources.filter((s) => s.category === 'primary' && s.kind === 'image').sort(byKey) },
+  ] },
+  { title: 'Secondary Sources', parts: [
+    { title: 'Books, articles, and websites', list: sources.filter((s) => s.category === 'secondary' && s.kind !== 'image').sort(byKey) },
+    { title: 'Photographs', list: sources.filter((s) => s.category === 'secondary' && s.kind === 'image').sort(byKey) },
+  ] },
+]
 
 // Fill a note template's {loc} with this citation's locator (e.g. "slide 9"), or the source default.
 const fillLoc = (template, src, loc) => template.replace('{loc}', loc ?? src.defaultLoc ?? '')

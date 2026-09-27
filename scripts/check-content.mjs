@@ -20,6 +20,7 @@ const checkSources = (where, ids) => {
 
 for (const s of data.sources) {
   for (const f of ['id', 'bibliography', 'note', 'shortNote']) if (!s[f]) err(`source ${s.id}: missing ${f}`)
+  if (!['primary', 'secondary'].includes(s.category)) err(`source ${s.id}: category must be primary or secondary`)
 }
 
 for (const it of data.items) {

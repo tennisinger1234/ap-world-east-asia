@@ -55,7 +55,7 @@ export function NotesSection({ notes }) {
             <span className="muted min-w-0 [overflow-wrap:anywhere]">
               {parts.map((p, i) => (
                 <span key={p.sourceId}>
-                  <NoteText text={p.text} />
+                  <NoteText text={p.text} />{' '}
                   <Link
                     to={`/sources?src=${encodeURIComponent(p.sourceId)}`}
                     className="ml-1 whitespace-nowrap text-xs font-semibold text-celadon-deep hover:underline"
