@@ -569,6 +569,24 @@
       "background": true
     },
     {
+      "id": "int-literary-traditions",
+      "category": "intellectual",
+      "focus": "song",
+      "era": "song",
+      "title": "Chinese literary and scholarly traditions in Heian Japan and Korea",
+      "date": "Heian period, 794–1185 (background)",
+      "region": "Japan and Korea",
+      "summary": "Chinese influence was strongest among the elites of neighboring states. Confucian political ideas, Buddhist teachings, and Chinese writing were brought to Korea and Japan through written texts, ambassadors, marriage, and traveling scholars, students, merchants, musicians, and monks, and they were adapted for local use. In Heian Japan (794–1185), Chinese remained the language of scholarly writing and official documents, while a new script for writing Japanese phonetically was used for poetry and memoirs, some by women. Korea's Koryŏ dynasty modeled its government and capital on China's.",
+      "globalConnection": "Cultural diffusion: Chinese cultural traditions continued, and they influenced neighboring regions long before and after 1200.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "oer-eastasia",
+        "ced"
+      ],
+      "verified": true,
+      "background": true
+    },
+    {
       "id": "rel-zen",
       "category": "religious",
       "focus": "neighbors",
@@ -613,16 +631,19 @@
       "title": "Buddhism and Daoism in China",
       "date": "Tang–Song",
       "region": "China",
-      "summary": "Buddhism flourished in the Tang and Song dynasties along with religious Daoism and a revival of Confucian thinking. By the Song, Buddhism had become very important to the Chinese state, but it existed alongside Daoist practices. Buddhism took many forms, including the Mahayana, Theravada, and Tibetan branches.",
+      "summary": "Buddhism flourished in the Tang and Song dynasties along with religious Daoism and a revival of Confucian thinking. By the Song, Buddhism had become very important to the Chinese state, but it existed alongside Daoist practices. Mahayana Buddhism was the branch practiced in China.",
       "globalConnection": "Belief systems: Buddhism continued to shape societies across Asia through many branches, schools, and practices.",
       "connectionType": "continuity",
       "sourceIds": [
         "afe-song",
         "oer-state-religion",
+        "oer-buddhism",
+        "slides",
         "ced"
       ],
       "locators": {
-        "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-religion.html"
+        "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-religion.html",
+        "slides": "slide 6"
       },
       "verified": true,
       "background": false
@@ -692,6 +713,48 @@
       "locators": {
         "afe-song": "section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-new.html"
       },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-buddhism-branches",
+      "category": "religious",
+      "focus": "song",
+      "era": "song",
+      "title": "Branches of Buddhism: Theravada, Mahayana, and Tibetan",
+      "date": "c. 1200–1450 (spreading since earlier centuries)",
+      "region": "Asia",
+      "summary": "Buddhism spread from India along trade routes and split into branches. Theravada, the “Doctrine of the Elders,” is the oldest surviving branch; it spread by sea to Sri Lanka and Southeast Asia, where it prevails in Thailand, Myanmar, Cambodia, and Laos. Mahayana, the “Great Vehicle,” let ordinary people strive for enlightenment without becoming monks; it traveled the Silk Roads to China and then to Korea, Japan, and Vietnam, becoming the most widespread form of Buddhism. Tibetan (Vajrayana) Buddhism, the “Diamond Vehicle,” added tantric rituals and meditations and was practiced in Tibet and Mongolia, where many Mongol leaders adopted it.",
+      "globalConnection": "Belief systems and trade networks: Buddhism and its core beliefs continued to shape societies in Asia and included a variety of branches, schools, and practices.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "slides",
+        "oer-buddhism",
+        "oer-state-religion",
+        "ced"
+      ],
+      "locators": {
+        "slides": "slide 7"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "rel-buddhism-changes",
+      "category": "religious",
+      "focus": "song",
+      "era": "song",
+      "title": "How Buddhism changed as it spread",
+      "date": "Tang–Song and after",
+      "region": "China → East Asia",
+      "summary": "As it spread, Buddhism blended with local beliefs, a process called syncretism. In China, Buddhist ideas mixed with Confucian and Daoist beliefs, and ancestor veneration and filial piety became part of Chinese Buddhism; over time its doctrines were “Sinicized.” The Pure Land school, popular in China and Japan, treated rebirth in the Pure Land as an extension of earthly life, and in Japan Buddhist monks even cared for Shinto shrines.",
+      "globalConnection": "Cultural diffusion: Buddhism changed each society it reached, and each society changed Buddhism in return.",
+      "connectionType": "change",
+      "sourceIds": [
+        "oer-buddhism",
+        "oer-why",
+        "oer-eastasia"
+      ],
       "verified": true,
       "background": false
     },
@@ -981,7 +1044,7 @@
       "category": "technological",
       "focus": "song",
       "era": "song",
-      "title": "Iron and steel production",
+      "title": "Steel and iron production",
       "date": "11th century",
       "year": 1078,
       "region": "China",
@@ -1043,6 +1106,29 @@
       },
       "verified": true,
       "background": true
+    },
+    {
+      "id": "tech-song-grand-canal",
+      "category": "technological",
+      "focus": "song",
+      "era": "song",
+      "title": "The Grand Canal and water transport in the Song",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "The Grand Canal linked North China to the Yangzi River region, and water transport was far cheaper than moving goods over land. Large cities and whole regions came to depend on ship-borne bulk trade in staple goods, especially rice. Hangzhou, the Southern Song capital, sat at the southern end of the Grand Canal, which made it a natural center for trade.",
+      "globalConnection": "Transportation innovations: canal and river transport moved bulk goods cheaply, and Grand Canal expansion under the Yuan later extended the canal to Beijing.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "slides",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-commercial.html; section “The Cities of the Song,” https://afe.easia.columbia.edu/songdynasty-module/cities-hangzhou.html",
+        "slides": "slide 9"
+      },
+      "verified": true,
+      "background": false
     },
     {
       "id": "econ-paper-money",
@@ -1177,6 +1263,50 @@
       "background": false
     },
     {
+      "id": "econ-free-labor",
+      "category": "economic",
+      "focus": "song",
+      "era": "song",
+      "title": "A commercialized economy built on free peasant and artisanal labor",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "The economy of Song China became increasingly commercialized while continuing to depend on free peasant and artisanal labor. Farmers produced for the market rather than for self-sufficiency, specializing in crops such as sugar, oranges, cotton, silk, and tea, and profits from household enterprises like silk-making paid rents and taxes. Skilled artisans worked in government and private workshops, weaving fine silks, while ironworks and kilns produced goods on a large scale.",
+      "globalConnection": "Economic systems: the Song economy flourished through increased productive capacity, expanding trade networks, and innovations in agriculture and manufacturing.",
+      "connectionType": "change",
+      "sourceIds": [
+        "ced",
+        "afe-song",
+        "oer-eastasia"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-commercial.html; section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-silk.html; section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-iron-steel.html; section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-ceramics.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "econ-exports",
+      "category": "economic",
+      "focus": "song",
+      "era": "song",
+      "title": "Textiles and porcelains for export",
+      "date": "Song, 960–1279",
+      "region": "China",
+      "summary": "Silk was the most highly prized fabric at home and abroad, and already in Song times China was a ceramics-exporting country. Some kilns could produce as many as 20,000 objects a day, and shards of Song porcelain have been found all over Asia. Massive ships carried silk, porcelain, dye, and other luxuries as far as the Malabar Coast of India and the Red Sea.",
+      "globalConnection": "Trade networks: textiles and porcelains produced for export tied Song manufacturing to Indian Ocean and Asian markets.",
+      "connectionType": "cause/effect",
+      "sourceIds": [
+        "afe-song",
+        "met-chronology",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-silk.html; section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-ceramics.html"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
       "id": "econ-zheng-he",
       "category": "economic",
       "focus": "context",
@@ -1203,11 +1333,11 @@
       "category": "social",
       "focus": "song",
       "era": "song",
-      "title": "Confucian hierarchy and filial piety",
+      "title": "Confucian hierarchy: the five relationships",
       "date": "continuous",
       "region": "East Asia",
-      "summary": "Confucianism taught that order depended on five relationships: ruler–subject, father–son, husband–wife, elder–younger sibling, and friend–friend, each with mutual duties. Filial piety, respect and obedience toward parents, extended to ancestors through family rituals. These hierarchies shaped family life and government throughout East Asia.",
-      "globalConnection": "Cultural diffusion: filial piety spread from China to neighboring East Asian societies.",
+      "summary": "Confucianism taught that order depended on five relationships: ruler–subject, father–son, husband–wife, elder–younger sibling, and friend–friend, each with mutual duties. Confucian writings emphasized these social hierarchies, which were believed to reflect the cosmic relationship between Heaven and Earth, and they shaped family life and government throughout East Asia.",
+      "globalConnection": "Cultural diffusion: Confucian political ideas were adapted in Korea, Japan, and Vietnam.",
       "connectionType": "continuity",
       "sourceIds": [
         "oer-confucianism",
@@ -1228,16 +1358,17 @@
       "category": "social",
       "focus": "song",
       "era": "song",
-      "title": "Foot binding",
+      "title": "Confucian traditions of respect for and expected deference from women",
       "date": "Song and after",
       "region": "China",
-      "summary": "Foot binding began in Song times. Song Confucian teachers also argued against widows remarrying, and compared with Tang times, women were less active in politics and less often seen on the streets.",
-      "globalConnection": "Continuity in gender roles: Confucian ideals kept women's proper realm in the household even as the Song economy grew.",
+      "summary": "Confucian tradition gave women respect within the family: a married woman who gave birth to sons would gain a respected place in her husband's family and be treated as an ancestor by her descendants, and mothers and grandmothers held important, respected places. It also expected deference, since women's proper realm was believed to be the household. In the Song, teachers argued against widows remarrying, foot binding began, and women were less active in politics and less often seen on the streets than in Tang times.",
+      "globalConnection": "Continuity in gender roles: Confucian traditions of both respect for and expected deference from women shaped family life across East Asia.",
       "connectionType": "continuity",
       "sourceIds": [
         "afe-song",
         "oer-eastasia",
-        "slides"
+        "slides",
+        "ced"
       ],
       "locators": {
         "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html",
@@ -1333,6 +1464,30 @@
       "locators": {
         "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html",
         "slides": "slide 4"
+      },
+      "verified": true,
+      "background": false
+    },
+    {
+      "id": "soc-filial-piety",
+      "category": "social",
+      "focus": "song",
+      "era": "song",
+      "title": "Filial piety in East Asia",
+      "date": "Song and after",
+      "region": "East Asia",
+      "summary": "In Confucian teaching, the family was the most basic unit of society: everyone should respect and obey their parents and put the family's interests before their own. Filial piety extended to ancestors, so everyone was expected to marry and have sons who would make offerings to deceased ancestors. During the Song, the Classic of Filial Piety became one of the thirteen classics of the Neo-Confucian canon.",
+      "globalConnection": "Cultural diffusion: filial piety spread with Confucian ideas to Korea, Japan, and Vietnam, and it even became part of Chinese Buddhism.",
+      "connectionType": "continuity",
+      "sourceIds": [
+        "afe-song",
+        "oer-buddhism",
+        "slides",
+        "ced"
+      ],
+      "locators": {
+        "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html",
+        "slides": "slide 5"
       },
       "verified": true,
       "background": false
@@ -2746,6 +2901,7 @@
         "answer": 0,
         "explanation": "Confucianism treated the family as the basic unit of society; respect for parents and ancestors was believed to create harmony in the state.",
         "itemIds": [
+          "soc-filial-piety",
           "soc-confucian-hierarchy"
         ]
       },
@@ -2786,6 +2942,208 @@
         "explanation": "Merchants traveling the caravan routes brought their faiths with them, making Song trade cities religiously diverse.",
         "itemIds": [
           "rel-foreign-faiths"
+        ]
+      },
+      {
+        "id": "q-buddhism-branches",
+        "stimulus": {
+          "type": "description",
+          "text": "One branch of Buddhism, the “Great Vehicle,” let ordinary people strive for enlightenment without becoming monks. It spread along the Silk Roads to China and then to Korea, Japan, and Vietnam."
+        },
+        "question": "Which branch of Buddhism does this describe?",
+        "choices": [
+          "Theravada",
+          "Mahayana",
+          "Tibetan (Vajrayana)",
+          "Neo-Confucianism"
+        ],
+        "answer": 1,
+        "explanation": "Mahayana, the “Great Vehicle,” became the most widespread form of Buddhism and the branch practiced in East Asia. Theravada spread to Sri Lanka and Southeast Asia, and Tibetan Buddhism to Tibet and Mongolia.",
+        "itemIds": [
+          "rel-buddhism-branches"
+        ]
+      },
+      {
+        "id": "q-buddhism-theravada",
+        "stimulus": {
+          "type": "description",
+          "text": "The oldest surviving branch of Buddhism, the “Doctrine of the Elders,” spread by sea from India."
+        },
+        "question": "In which region did this branch become dominant?",
+        "choices": [
+          "Sri Lanka and mainland Southeast Asia",
+          "China, Korea, and Japan",
+          "Tibet and Mongolia",
+          "Heian Japan only"
+        ],
+        "answer": 0,
+        "explanation": "Theravada spread to Sri Lanka and Southeast Asia, where it prevails in Thailand, Myanmar, Cambodia, and Laos. Mahayana dominated East Asia, and Tibetan Buddhism spread to Tibet and Mongolia.",
+        "itemIds": [
+          "rel-buddhism-branches"
+        ]
+      },
+      {
+        "id": "q-buddhism-tibetan",
+        "stimulus": {
+          "type": "description",
+          "text": "Khubilai Khan's close advisor was the Tibetan monk 'Phags-pa, and many Mongol leaders adopted Tibetan forms of Buddhism."
+        },
+        "question": "This evidence best shows that Tibetan Buddhism",
+        "choices": [
+          "was limited to monasteries in India",
+          "spread to Mongol rulers as well as Tibet",
+          "replaced Mahayana Buddhism in Song China",
+          "was the main branch in Sri Lanka"
+        ],
+        "answer": 1,
+        "explanation": "Tibetan (Vajrayana) Buddhism was practiced in Tibet and Mongolia, and many Mongol leaders, including those of the Yuan court, adopted it.",
+        "itemIds": [
+          "rel-buddhism-branches",
+          "rel-yuan"
+        ]
+      },
+      {
+        "id": "q-buddhism-syncretism",
+        "stimulus": {
+          "type": "quote",
+          "text": "Buddhist ideas blended with Confucian and Daoist beliefs in China, where concepts like ancestor veneration (honor) and filial piety (honoring elders) became part of Buddhism.",
+          "attribution": "Eman M. Elshaikh, “Buddhism: Origins, Beliefs & Spread,” OER Project",
+          "sourceIds": [
+            "oer-buddhism"
+          ]
+        },
+        "question": "The passage best illustrates which process?",
+        "choices": [
+          "Syncretism, as Buddhism changed while it spread",
+          "The rejection of Buddhism by the Song state",
+          "The spread of Islam to China",
+          "The end of Confucianism in China"
+        ],
+        "answer": 0,
+        "explanation": "Buddhism blended with local beliefs as it spread. In China it absorbed Confucian and Daoist ideas such as filial piety, a process called syncretism.",
+        "itemIds": [
+          "rel-buddhism-changes"
+        ]
+      },
+      {
+        "id": "q-deference",
+        "stimulus": {
+          "type": "quote",
+          "text": "Compared to Tang times, women were less active in politics and less commonly seen on the streets.",
+          "attribution": "Asia for Educators, “Song Dynasty China”",
+          "sourceIds": [
+            "afe-song"
+          ],
+          "locators": {
+            "afe-song": "section “The Song Confucian Revival,” https://afe.easia.columbia.edu/songdynasty-module/confucian-neo.html"
+          }
+        },
+        "question": "Which other Song development is most consistent with the trend described?",
+        "choices": [
+          "Women were admitted to the civil service exams",
+          "Foot binding began and teachers argued against widows remarrying",
+          "Women lost all rights to property",
+          "Women governed the provinces"
+        ],
+        "answer": 1,
+        "explanation": "Confucian traditions expected deference from women: foot binding began in Song times and teachers opposed widow remarriage. Women's property rights, however, stayed relatively secure.",
+        "itemIds": [
+          "soc-foot-binding"
+        ]
+      },
+      {
+        "id": "q-heian",
+        "stimulus": {
+          "type": "quote",
+          "text": "Although Chinese continued to be used for scholarly writings and official documents, a new script for writing Japanese phonetically was increasingly used for poetry and memoirs, some of these by female authors.",
+          "attribution": "Merry Wiesner-Hanks, “East Asia 1200–1450: China, Korea & Japan,” OER Project",
+          "sourceIds": [
+            "oer-eastasia"
+          ]
+        },
+        "question": "The passage about Heian Japan best illustrates",
+        "choices": [
+          "the rejection of all Chinese influence",
+          "the adoption and local adaptation of Chinese literary traditions",
+          "the Mongol conquest of Japan",
+          "the spread of Theravada Buddhism"
+        ],
+        "answer": 1,
+        "explanation": "Japan kept Chinese for scholarly and official writing but developed its own phonetic script for poetry and memoirs: adoption plus adaptation.",
+        "itemIds": [
+          "int-literary-traditions"
+        ]
+      },
+      {
+        "id": "q-song-grand-canal",
+        "stimulus": {
+          "type": "quote",
+          "text": "Over long distances, large cities and whole regions of dense population came to depend on ship-borne bulk trade in staple goods, especially rice.",
+          "attribution": "Historian Robert Hymes, quoted in Asia for Educators, “Song Dynasty China”",
+          "sourceIds": [
+            "afe-song"
+          ],
+          "locators": {
+            "afe-song": "section “The Song Economic Revolution,” https://afe.easia.columbia.edu/songdynasty-module/econ-rev-commercial.html"
+          }
+        },
+        "question": "Which Song transportation feature best supported the trade described?",
+        "choices": [
+          "The Grand Canal linking North China to the Yangzi River region",
+          "Camel caravans across Central Asia",
+          "Mongol postal relay stations",
+          "Zheng He's treasure fleets"
+        ],
+        "answer": 0,
+        "explanation": "The Grand Canal and China's rivers let ships move bulk goods like rice cheaply between the south and the north. The relay stations were Mongol, and Zheng He sailed under the Ming.",
+        "itemIds": [
+          "tech-song-grand-canal"
+        ]
+      },
+      {
+        "id": "q-free-labor",
+        "stimulus": {
+          "type": "quote",
+          "text": "Profits from these household enterprises paid their rents and taxes, and bought charcoal, tea, oil, pottery, and other consumer goods.",
+          "attribution": "Merry Wiesner-Hanks, “East Asia 1200–1450: China, Korea & Japan,” OER Project",
+          "sourceIds": [
+            "oer-eastasia"
+          ]
+        },
+        "question": "The passage best supports which claim about the Song economy?",
+        "choices": [
+          "It relied mainly on enslaved labor",
+          "It was increasingly commercialized while depending on free peasant labor",
+          "It had no markets outside the capital",
+          "It was controlled entirely by the Mongols"
+        ],
+        "answer": 1,
+        "explanation": "Village households sold what they made and bought consumer goods, showing a commercialized economy that still depended on free peasant and artisanal labor.",
+        "itemIds": [
+          "econ-free-labor"
+        ]
+      },
+      {
+        "id": "q-exports",
+        "stimulus": {
+          "type": "quote",
+          "text": "Massive ships travel as far as the Malabar Coast of India and the Red Sea, exporting silk, porcelain, dye, and other luxuries.",
+          "attribution": "The Metropolitan Museum of Art, “China, 1000–1400 A.D.”",
+          "sourceIds": [
+            "met-chronology"
+          ]
+        },
+        "question": "This evidence best supports which conclusion?",
+        "choices": [
+          "Song China produced textiles and porcelains for export",
+          "Song China imported most of its silk",
+          "Song trade was limited to the Grand Canal",
+          "Song China had no navy or merchant ships"
+        ],
+        "answer": 0,
+        "explanation": "Silk and porcelain made in Song China were carried by sea to India and the Red Sea: textiles and porcelains for export.",
+        "itemIds": [
+          "econ-exports"
         ]
       }
     ],
@@ -3083,6 +3441,55 @@
             ]
           }
         ]
+      },
+      {
+        "id": "saq-buddhism",
+        "title": "Branches of Buddhism",
+        "stimulus": {
+          "type": "quote",
+          "text": "Buddhism and its core beliefs continued to shape societies in Asia and included a variety of branches, schools, and practices.",
+          "attribution": "College Board, AP World History CED, KC-3.1.III.D.ii",
+          "sourceIds": [
+            "ced"
+          ]
+        },
+        "parts": [
+          {
+            "label": "a",
+            "prompt": "Identify ONE branch of Buddhism and a region where it was practiced.",
+            "points": [
+              "Theravada: Sri Lanka and Southeast Asia (Thailand, Myanmar, Cambodia, Laos).",
+              "Mahayana: China, Korea, Japan, and Vietnam.",
+              "Tibetan (Vajrayana): Tibet and Mongolia."
+            ],
+            "itemIds": [
+              "rel-buddhism-branches"
+            ]
+          },
+          {
+            "label": "b",
+            "prompt": "Explain ONE way Buddhism changed as it spread into China.",
+            "points": [
+              "It blended with Confucian and Daoist beliefs (syncretism); ancestor veneration and filial piety became part of Chinese Buddhism.",
+              "Its doctrines were “Sinicized,” and the Pure Land school treated rebirth as an extension of earthly life."
+            ],
+            "itemIds": [
+              "rel-buddhism-changes"
+            ]
+          },
+          {
+            "label": "c",
+            "prompt": "Explain ONE way Buddhism shaped society in Japan c. 1200–1450.",
+            "points": [
+              "Zen was enthusiastically received by the samurai class.",
+              "Pure Land was popular with ordinary people, who blended it with Shinto."
+            ],
+            "itemIds": [
+              "rel-zen",
+              "rel-shinto"
+            ]
+          }
+        ]
       }
     ],
     "ccot": [
@@ -3111,7 +3518,7 @@
         "answer": "continuity",
         "explanation": "The Confucian family ideal persisted across dynasties and spread to neighboring societies.",
         "itemIds": [
-          "soc-confucian-hierarchy"
+          "soc-filial-piety"
         ]
       },
       {
@@ -3194,6 +3601,25 @@
         "itemIds": [
           "art-yuan-literati",
           "art-scholar-arts"
+        ]
+      },
+      {
+        "id": "cc-buddhism-china",
+        "text": "As Buddhism spread into China, it absorbed ideas such as ancestor veneration and filial piety.",
+        "answer": "change",
+        "explanation": "Buddhism changed as it spread, blending with Confucian and Daoist beliefs (syncretism).",
+        "itemIds": [
+          "rel-buddhism-changes"
+        ]
+      },
+      {
+        "id": "cc-grand-canal",
+        "text": "Maintaining the Grand Canal was a public works tradition that continued from native Chinese dynasties into the Yuan.",
+        "answer": "continuity",
+        "explanation": "The Yuan extended the Grand Canal to Beijing, continuing a public work traditionally supported by Chinese dynasties.",
+        "itemIds": [
+          "tech-song-grand-canal",
+          "tech-grand-canal"
         ]
       }
     ]
