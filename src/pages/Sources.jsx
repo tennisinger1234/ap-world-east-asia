@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
-import { bibliography, getItem, imageCredits, items, meta, photos, practice } from '../lib/content'
+import { bibliography, getItem, imageCredits, items, meta, photos } from '../lib/content'
 import { flashElement, NoteText } from '../components/Notes'
 import { NextSteps, PageHeader } from '../components/ui'
 
@@ -15,7 +15,6 @@ export default function Sources() {
   }, [target])
 
   const usage = (id) => items.filter((i) => i.sourceIds.includes(id)).length
-  const questions = practice.mcq.length + practice.saq.length + practice.ccot.length
 
   return (
     <>
@@ -23,16 +22,6 @@ export default function Sources() {
         {meta.bibliographyNote}
       </PageHeader>
 
-      <div className="mb-8 grid gap-3 sm:grid-cols-2">
-        <div className="card p-4">
-          <p className="font-sans text-4xl font-bold tracking-tight">{bibliography.length}</p>
-          <p className="muted text-sm">sources cited, plus {imageCredits.length} image credits</p>
-        </div>
-        <div className="card p-4">
-          <p className="font-sans text-4xl font-bold tracking-tight">{questions}</p>
-          <p className="muted text-sm">practice questions, all tied to cited developments</p>
-        </div>
-      </div>
 
       <h2 className="mb-4 text-3xl">Bibliography</h2>
       <ol className="scroll space-y-1 px-4 py-6 sm:px-8">
